@@ -1,0 +1,24 @@
+[
+  {
+    "supplierName": "Urban Brands",
+    "supplierId": "151",
+    "type": {
+      "Screen Print": [
+        "1 Colour/location print"
+      ],
+      "Debossing": [
+        "1 Location Debossing"
+      ],
+      "Undecorated": [
+        "Undecorated"
+      ],
+      "Digital Print": [
+        "Full colour print",
+        "Full Colour / 1 Location"
+      ],
+      "Embroidery": [
+        "Terry Embroidery (5k Stitches)"
+      ]
+    }
+  }
+]

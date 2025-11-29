@@ -1,0 +1,24 @@
+[
+  {
+    "supplierName": "Cheeta Teamwear",
+    "supplierId": "116",
+    "type": {
+      "Woven logos or sublimation or embroidery badge": [
+        "Includes custom colours, woven text on front and an embroidery logo on each end of front of scarf"
+      ],
+      "Woven text or logo": [
+        "Includes fully customised design"
+      ],
+      "Embroidery": [
+        "Includes fully customised design",
+        "Includes custom colours, woven text on front and an embroidery logo"
+      ],
+      "Sublimation": [
+        "Includes fully customised design"
+      ],
+      "Embroidery or sublimation badge": [
+        "Includes fully customised design and 1 embroidery logo"
+      ]
+    }
+  }
+]

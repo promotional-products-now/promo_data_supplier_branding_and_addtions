@@ -1,0 +1,36 @@
+[
+  {
+    "supplierName": "New Waves",
+    "supplierId": "123",
+    "type": {
+      "none": [
+        "White",
+        "WHITE",
+        "ALL COLOURS",
+        "Colours",
+        "All Colours",
+        "ALL COLOURS（XS-3XL）",
+        "WHITE XS-3XL",
+        "ALL COLOURS S-3XL",
+        "ALL COLOURS XXS-3XL",
+        "ALL COLOURS  XS-3XL",
+        "ALL COLOURS  4XL",
+        "ALL COLOURS  4XL-5XL",
+        "All Colours 5XL",
+        "ALL COLOURS 4XL-5XL",
+        "WHITE 4XL-5XL",
+        "COLOURS 4XL-5XL",
+        "Black",
+        "Colours 5XL",
+        "BLACK  XS-3XL",
+        "BLACK",
+        "COLOURS",
+        "COLOURS XS-3XL",
+        "BLACK 4XL-5XL",
+        "BLACK XS-3XL",
+        "ALL COLOURS(5XL)",
+        "ALL COLOURS 5XL"
+      ]
+    }
+  }
+]

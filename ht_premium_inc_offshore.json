@@ -1,0 +1,83 @@
+[
+  {
+    "supplierName": "HT Premium Inc (Offshore)",
+    "supplierId": "75",
+    "type": {
+      "Pad print": [
+        "1 color 1 location"
+      ],
+      "Laser Engraved,Silkscreen": [
+        "1 color 1 location"
+      ],
+      "Silkscreen": [
+        "1 color 1 location"
+      ],
+      "Other": [
+        "1 color 1 location"
+      ],
+      "Heat Transfer": [
+        "1 color 1 location"
+      ],
+      "Laser Engraved": [
+        "1 color 1 location"
+      ],
+      "Printed": [
+        "1 color 1 location"
+      ],
+      "Embroidered,Silkscreen": [
+        "1 color 1 location"
+      ],
+      "Embossed": [
+        "1 color 1 location"
+      ],
+      "Pad Print": [
+        "1 color 1 location"
+      ],
+      "Unimprinted": [
+        "1 color 1 location"
+      ],
+      "Hot Stamped": [
+        "1 color 1 location"
+      ],
+      "Debossed": [
+        "1 color 1 location"
+      ],
+      "Heat Transfer,Silkscreen": [
+        "1 color 1 location"
+      ],
+      "Embroidered": [
+        "1 color 1 location"
+      ],
+      "Foil Stamped": [
+        "1 color 1 location"
+      ],
+      "Sublimation": [
+        "1 color 1 location"
+      ],
+      "Debossed,Silkscreen,Printed": [
+        "1 color 1 location"
+      ],
+      "Embossed,Silkscreen": [
+        "1 color 1 location"
+      ],
+      "Debossed,Foil Stamped,Silkscreen": [
+        "1 color 1 location"
+      ],
+      "Debossed,Silkscreen": [
+        "1 color 1 location"
+      ],
+      "Other,Silkscreen": [
+        "1 color 1 location"
+      ],
+      "Engraved": [
+        "1 color 1 location"
+      ],
+      "Foil Stamped,Silkscreen": [
+        "1 color 1 location"
+      ],
+      "Debossed,Hot Stamped": [
+        "1 color 1 location"
+      ]
+    }
+  }
+]

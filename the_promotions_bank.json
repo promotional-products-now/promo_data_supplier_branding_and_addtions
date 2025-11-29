@@ -1,0 +1,114 @@
+[
+  {
+    "supplierName": "The Promotions Bank",
+    "supplierId": "51",
+    "type": {
+      "Digital print": [
+        "Full colour digital print on white side ",
+        "Full colour print on 1 side ",
+        "Full colour digital print on 1 side ",
+        "Full colour print on 1 side and on pouch "
+      ],
+      "Screen Print": [
+        "additional print colour per side ",
+        "additional 1 colour 1 side ",
+        "additional print colour ",
+        "add additional print colour ",
+        "1 colour print on 1 position ",
+        "1 colour print on 1 side ",
+        "1 color print on 1 position "
+      ],
+      "Screen print": [
+        "additional print colour ",
+        "additional print per position ",
+        "1 colour 1 position print on rib ",
+        "1 colour screen print on 1 side ",
+        "additional print colour on sunshade and on pouch ",
+        "1 colour print on 1 position ",
+        "1 colour print on both arms ",
+        "1 colour print on flyer and on outisde of pouch ",
+        "1 colour priint on 1 position ",
+        "1 colour print on 1 side ",
+        "1 colour print on 1 position on each item ( same print colour and print size ) ",
+        "1 colour print on 1 side of sunshade and pouch "
+      ],
+      "screen print": [
+        "additional print colour per side ",
+        "additional 1 colour 1 side ",
+        "1 colour print on 1 side "
+      ],
+      "sublimation print": [
+        "add full colour print on other side ",
+        "full colour print on 1 side ",
+        "Full colour sublimation print on 1 side and on pouch ",
+        "sublimation print ",
+        "full color print on 1 side of fan ",
+        "full colour print on 1 side of flyer and on outside of pouch ",
+        "full colour print on pocket ",
+        "full colour print on both sides "
+      ],
+      "pad print": [
+        "1 colour 1 position print on pen clip ",
+        "1 colour print on 1 side ",
+        "1 colour 1 position print on pen barrel ",
+        "2 colour print on 1 side ",
+        "additional print colour ",
+        "1 colour print on both sides "
+      ],
+      "Copper plate press printing": [
+        "additional print colour ",
+        "1 colour print on both sides ( same print colour on both sides ) "
+      ],
+      "pad printing": [
+        "1 colour print on 4 sections (  1 colour print on 2 sections and different 1 colour print on 2 other sections ) ",
+        "1 colour print on 4 sections. ",
+        "1 colour print on 4 sections ( same print colour ) "
+      ],
+      "Heat transfer": [
+        "2 or more colour print on 1 position ",
+        "full colour print on both sides of collar ",
+        "full colour print on both sides of banner "
+      ],
+      "digital print": [
+        "full colour print on 1 side "
+      ],
+      "offset printing": [
+        "Full colour print on all surfaces ",
+        "full colour print on 1 side of fan ",
+        "Full colour print on all 6 sides ",
+        "Full colour printing on all surfaces ",
+        "full colour print on both sides of fan flap ",
+        "full colour print on both sides ",
+        "CMYK printing ",
+        "full colour print on 1 side ",
+        "Full colour print on all surfaces. ",
+        "Full colour print on outside of pen pot, matte lamination. ",
+        "Full colour print on outside of pen holder. ",
+        "Full colour print on both sides of stand, matte lamination. ",
+        "full colour custom printing on both sides of playing card and outside of box ",
+        "full colour print on both sides of fan' ",
+        "full colour custom printing on both sides of playing card. ",
+        "Full colour print on outside of cube and envelope. ",
+        "Full colour print on all sides of blocks ",
+        "Full colour print on outside of pen holder and envelope. ",
+        "full colour print on both sides of banner ",
+        "Full colour print on outside of stand, matte lamination. ",
+        "Full colour print on 4 sides of each block, on 4 sidesof top block and base. ",
+        "Full colour print on 6 sides of each block. ",
+        "Full colour print on 4 sides of each block. ",
+        "full colour print on both sides and on 1 side of header card ",
+        "Full colour print on white side "
+      ],
+      "Undecorated": [
+        "[Not supplied]",
+        "undecorated "
+      ],
+      "sublimation & offset print": [
+        "full colour sublimation print o 1 side of cloth and full colour print on both sides of backing card. "
+      ],
+      "UV digital printing": [
+        "Full colour digital print on both sides ( same or different designs ) "
+      ]
+    }
+  }
+]

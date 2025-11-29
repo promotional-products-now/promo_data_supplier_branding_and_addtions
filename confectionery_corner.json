@@ -1,0 +1,432 @@
+[
+  {
+    "supplierName": "Confectionery Corner",
+    "supplierId": "115",
+    "type": {
+      "Undecorated": [
+        "[Not supplied]"
+      ],
+      "Choc Bar with Sleeve": [
+        "CC009M1 - Paper Sleeve",
+        "CC009M2 - Cardboard Sleeve",
+        "Choc Bar with Sleeve"
+      ],
+      "Branded Bucket with Sticker": [
+        "Branded Bucket with Sticker",
+        "CC005C1 - Sticker on Bucket"
+      ],
+      "Price per KG": [
+        "Price per KG"
+      ],
+      "Branded Bucket with Sticker - 160g Jaffa": [
+        "Branded Bucket with Sticker - 160g Jaffa"
+      ],
+      "Branded Roll with Wrapper": [
+        "Branded Roll with Wrapper"
+      ],
+      "Branded Bucket with Sticker - x5 Lindt Balls": [
+        "Branded Bucket with Sticker - x5 Lindt Balls"
+      ],
+      "25g Mints": [
+        "CC001E1 - Biz Card Treat with Mints 25g",
+        "CC001F - Biz Card Treat with Mints 50g"
+      ],
+      "Branded Bucket with Sticker - Call for Pricing": [
+        "Branded Bucket with Sticker - Call for Pricing"
+      ],
+      "x2 Lindt Balls": [
+        "x2 Lindt Balls"
+      ],
+      "Min Order is 10kg/ Price PER KG": [
+        "Min Order is 10kg/ Price PER KG"
+      ],
+      "Sticker on Bucket": [
+        "Sticker on Bucket"
+      ],
+      "25g Mixed Lollies": [
+        "CC001I1 - Biz Card Treats with Mixed Lollies 25g",
+        "CC001J - Biz Card Treats with Mixed Lollies 50G"
+      ],
+      "Branded Tube with Sticker": [
+        "Branded Tube with Sticker"
+      ],
+      "Branded Cube with Sticker": [
+        "Branded Cube with Sticker",
+        "CC013F1 - Branded Cube with Sticker/ Mixed and Corporate Coloured Choc Beans",
+        "CC013B1 - Branded Cube with Sticker",
+        "CC013B1H - Branded Cube with Sticker/ Mixed or Corporate Coloured Choc Beans"
+      ],
+      "Branded Can with Wrapper": [
+        "Branded Can with Wrapper",
+        "CC045B    SML1 - Branded Can with Chewy Mints"
+      ],
+      "Branded Noodle Box with Sticker": [
+        "Branded Noodle Box with Sticker",
+        "CC056C1 - Branded Noodle Box with Sticker",
+        "CC042C1 - Branded Noodle Box with Sticker",
+        "CC043C1 - Branded Noodle Box with Sticker"
+      ],
+      "Full Colour Sticker": [
+        "Full Colour Sticker",
+        "CC008A1 - Branded Choc Heart with Sticker",
+        "CC008A2 - Unbranded Choc Heart",
+        "CC064A2 - MOON & LID stickers",
+        "CC064A4 - WRAP AROUND & LID stickers",
+        "CC064A1 - MOON or LID sticker",
+        "CC064A3 - WRAP AROUND sticker",
+        "CC052D1 - Branded Bottle - 1 Sticker - NECK STICKER COMPULSORY",
+        "CC052D2 - Branded Bottle - 2 Stickers - Neck & Body Stickers",
+        "CC029C1 - Branded Dollar with Sticker",
+        "CC064E1 - MOON or LID sticker",
+        "CC064E2 - MOON & LID stickers",
+        "CC064E3 - WRAP AROUND sticker",
+        "CC064E4 - WRAP AROUND & LID stickers",
+        "CC052B1 - Branded Bottle - 1 Sticker - NECK STICKER COMPULSORY",
+        "CC052B2 - Branded Bottle - 2 Stickers - Neck & Body Stickers",
+        "CC052C1 - Branded Bottle - 1 Sticker - NECK STICKER COMPULSORY ",
+        "CC052C2 - Branded Bottle - 2 Stickers - Neck & Body Stickers",
+        "CC064D2 - MOON & LID stickers",
+        "CC064D3 - WRAP AROUND sticker",
+        "CC064C1 - MOON or LID sticker",
+        "CC052A1 - Branded Bottle - 1 Sticker - NECK STICKER COMPULSORY",
+        "CC052A2 - Branded Bottle - 2 Stickers - Neck & Body Stickers",
+        "CC064D1 - MOON or LID sticker",
+        "CC064D4 - WRAP AROUND & LID stickers",
+        "CC064C2 - MOON & LID stickers",
+        "CC064C3 - WRAP AROUND sticker",
+        "CC064C4 - WRAP AROUND & LID stickers",
+        "CC064B1 - MOON or LID sticker",
+        "CC064B2 - MOON & LID stickers",
+        "CC064B3 - WRAP AROUND sticker",
+        "CC064B4 - WRAP AROUND & LID stickers",
+        "CC009F1 - Branded Choc Box with Sticker - x1 Layer Chocolate",
+        "CC009F2 - Branded Choc Box with Sticker - x2 Layer Chocolate",
+        "CC064F3 - WRAP AROUND sticker",
+        "CC064F4 - WRAP AROUND & LID stickers",
+        "CC064F2 - MOON & LID stickers",
+        "CC064F1 - MOON or LID sticker"
+      ],
+      "Branded Jar with Sticker": [
+        "Branded Jar with Sticker",
+        "CC067C2 - Branded Jar with Sticker"
+      ],
+      "Branded Bag with Tag": [
+        "Branded Bag with Tag"
+      ],
+      "Branded Mesh Bag with Tag": [
+        "Branded Mesh Bag with Tag"
+      ],
+      "Branded Chocolate with Sticker": [
+        "Branded Chocolate with Sticker"
+      ],
+      "Lollipop with Tag attached": [
+        "Lollipop with Tag attached"
+      ],
+      "Branded Test Tube with Sticker": [
+        "Branded Test Tube with Sticker"
+      ],
+      "Branded Tin with Wrapper": [
+        "Branded Tin with Wrapper",
+        "CC044G1 - Branded Tin with Wrapper"
+      ],
+      "Branded Tin with Sticker": [
+        "Branded Tin with Sticker",
+        "CC048H2 - Branded Tin with One Colour Pad Print",
+        "CC048H1 - Branded Tin with Sticker"
+      ],
+      "Branded Noodle Box with Sticker with Branded Rock Candy": [
+        "Branded Noodle Box with Sticker with Branded Rock Candy"
+      ],
+      "Branded Bag with Sticker": [
+        "Branded Bag with Sticker",
+        "CC093C1 - Choc Beans in Branded Kraft Bag",
+        "CC093B1 - CHEWY Mints in Branded Kraft/Wax Bag"
+      ],
+      "Branded Bag with One Colour Print": [
+        "Branded Bag with One Colour Print"
+      ],
+      "Branded Set with Sticker - Call for prices": [
+        "Branded Set with Sticker - Call for prices"
+      ],
+      "Branded Bottle with Sticker": [
+        "Branded Bottle with Sticker"
+      ],
+      "Sticker": [
+        "Sticker",
+        "CC034A50 - 50g Candy Lollipop with Sticker Adhered",
+        "CC034A80 - 80g Candy Lollipop with Sticker Adhered",
+        "CC032B1 - Branded Jar with Sticker",
+        "CCX009B - Sticker on Pillow Pack",
+        "CCX010B - Sticker on Pillow Pack",
+        "CCE029B - Sleeve on Egg Carton",
+        "CCE029A - Sticker on Egg Carton "
+      ],
+      "FULL COLOUR STICKER": [
+        "CC005B1 - Sticker on bucket",
+        "CC004B1 - Sticker on bucket",
+        "CC029E1 - Branded Dollar with Sticker",
+        "CC026B2 - Branded Jar with Sticker",
+        "CC029A1 - Branded Dollar with Sticker",
+        "CC029B1 - Branded Dollar with Sticker/ Mixed Coloured Choc Beans",
+        "CC029D1 - Branded Dollar with Sticker",
+        "CC030C1 - Branded Heart with Sticker",
+        "CC052J1 - Branded Bottle - 1 Sticker - NECK STICKER COMPULSORY",
+        "CC052J2 - Branded Bottle - 2 Stickers - Neck & Body Stickers",
+        "CC030A1 - Branded Heart with Sticker",
+        "CC030E1 - Branded Heart with Sticker",
+        "CC030D1 - Branded Heart with Sticker",
+        "CC030B1 - Branded Heart with Sticker / Mixed or Corporate Coloured Choc Beans",
+        "CC046B3 - Branded Tin with One Colour Pad Print",
+        "CC046B2 - Branded Tin with Sticker",
+        "CC031B1 - Branded Test Tube with Sticker",
+        "CC046B4 - Additional Pad Print Colour",
+        "CC046A2 - Branded Tin with Sticker",
+        "CC046A3 - Branded Tin with One Colour Pad Print",
+        "CC046A4 - Additional Pad Print Colour",
+        "CC057C1 - Branded Bottle with Sticker",
+        "CC029F1 - Sticker"
+      ],
+      "Sticker on Noodle Box": [
+        "Sticker on Noodle Box",
+        "CCE009A - Full Colour Sticker Adhered"
+      ],
+      "Per Kg": [
+        "Per Kg"
+      ],
+      "UNBRANDED": [
+        "CC061A1 - Unbranded Bag",
+        "CC061A2 - Branded Bag with Sticker",
+        "CC038A1 - Unbranded Bag",
+        "CC038A2 - Branded Bag with Sticker",
+        "CC038C1 - Unbranded Bag",
+        "CC038C2 - Branded Bag with Sticker",
+        "CC019D2 - Branded Jar with Sticker",
+        "CC034F2 - Branded Lollipop with Sticker",
+        "CC038B1 - Unbranded Bag",
+        "CC038B2 - Branded Bag with Sticker",
+        "CC019C2 - Branded Jar with Sticker",
+        "CC011A2 - Full Colour Sticker Adhered",
+        "CC028A1 - Unbranded Bag",
+        "CC028A2 - Branded Bag with Sticker",
+        "CC011A1 - Unbranded Coins",
+        "CC019B2 - Branded Jar with Sticker",
+        "CC019A2 - Branded Jar with Sticker",
+        "Branded Lollipop with Sticker"
+      ],
+      "Tag attached to mesh bag": [
+        "Tag attached to mesh bag"
+      ],
+      " ": [
+        "CC054A1 - Branded Star with Sticker",
+        "CC054A2 - Branded Star with Tag"
+      ],
+      "Branded Case with Sticker": [
+        "Branded Case with Sticker"
+      ],
+      "Full Colour Wrapper": [
+        "Full Colour Wrapper"
+      ],
+      "Branded Box with Sticker": [
+        "Branded Box with Sticker",
+        "CC009E1 - Branded Choc Box with Sticker - x1 Layer Chocolate",
+        "CC009E2 - Branded Choc Box with Sticker - x2 Layer Chocolate"
+      ],
+      "Sticker on bag": [
+        "Sticker on bag",
+        "CCE003A - Unbranded bag",
+        "CCE003B - Sticker on bag",
+        "CCE002A - Unbranded bag",
+        "CCE002B - Sticker on bag",
+        "CC095M1 - Gingerbread Man Cookie BILLBOARD",
+        "CC095M2 - Gingerbread Man Cookie STICKER",
+        "CC095R2 - Gingerbread Reindeer Cookie STICKER",
+        "CC095R1 - Gingerbread Reindeer Cookie BILLBOARD"
+      ],
+      "FULL COLOUR WRAPPER": [
+        "CC045C1 - Branded Can with Wrapper"
+      ],
+      "Sticker on bucket": [
+        "Sticker on bucket"
+      ],
+      "Branded Light Bulb with Sticker": [
+        "Branded Light Bulb with Sticker",
+        "CC074C1 - Branded Light Bulb with Sticker - Chewy Mints"
+      ],
+      "Business Card Inserted": [
+        "Business Card Inserted"
+      ],
+      "Full Colour Tag attached to lollipop": [
+        "Full Colour Tag attached to lollipop"
+      ],
+      "Sticker on Tube": [
+        "Sticker on Tube"
+      ],
+      "Branded Heart with Sticker": [
+        "Branded Heart with Sticker"
+      ],
+      "Sticker on Cube": [
+        "Sticker on Cube"
+      ],
+      "Sticker on Pillow Pack": [
+        "Sticker on Pillow Pack",
+        "CCX001B - Sticker on bag",
+        "CCX001A - Unbranded"
+      ],
+      "Sticker on Jar": [
+        "Sticker on Jar"
+      ],
+      "Acrylic Heart with Sticker": [
+        "Acrylic Heart with Sticker"
+      ],
+      "Per Kilo Cost - min 5kg": [
+        "Per Kilo Cost - min 5kg"
+      ],
+      "Biz Card with Chocolates": [
+        "Biz Card with Chocolates"
+      ],
+      "Biz Card with Candy Canes": [
+        "Biz Card with Candy Canes"
+      ],
+      "Branded Choc Bar with Sleeve": [
+        "Branded Choc Bar with Sleeve"
+      ],
+      "Branded CMYK Printed Box": [
+        "Branded CMYK Printed Box"
+      ],
+      "Sticker on Bottle": [
+        "Sticker on Bottle"
+      ],
+      "Sticker on pillow pack": [
+        "Sticker on pillow pack"
+      ],
+      "Tag Attached": [
+        "Tag Attached"
+      ],
+      "Price per 5kg box (approx 700 stars)": [
+        "Price per 5kg box (approx 700 stars)"
+      ],
+      "Sticker ": [
+        "Sticker "
+      ],
+      "Tin with Sticker": [
+        "Tin with Sticker"
+      ],
+      "Branded Syringe with Tag": [
+        "Branded Syringe with Tag"
+      ],
+      "Price Per KG/ approx 125 mini eggs per KG": [
+        "Price Per KG/ approx 125 mini eggs per KG"
+      ],
+      "Price per 5kg box (approx 625 bells)": [
+        "Price per 5kg box (approx 625 bells)"
+      ],
+      "Kit with sticker": [
+        "Kit with sticker"
+      ],
+      "Printed Gift Card with Lolly Bag": [
+        "Printed Gift Card with Lolly Bag"
+      ],
+      "Candy Cane with Card": [
+        "Candy Cane with Card"
+      ],
+      "Branded Tub with Sticker": [
+        "Branded Tub with Sticker"
+      ],
+      "Gift Card with Lolly Bag": [
+        "Gift Card with Lolly Bag"
+      ],
+      "Unbranded Bag attached to Branded Billboard": [
+        "Unbranded Bag attached to Branded Billboard"
+      ],
+      "Branded House with Sticker": [
+        "Branded House with Sticker",
+        "CC085B1 - Branded House with Sticker/ Mixed or Corporate Coloured Choc Beans"
+      ],
+      "Branded Biscuit with Sleeve": [
+        "Branded Biscuit with Sleeve"
+      ],
+      "Sticker on box - CALL FOR PRICING": [
+        "Sticker on box - CALL FOR PRICING",
+        "CC087N2 - Sleeve Attached",
+        "CC087NSMALL2 - Sleeve Attached",
+        "CC087N1 - Sticker Adhered",
+        "CC087NSMALL1 - Sticker Adhered"
+      ],
+      "Chocolate box with sleeve": [
+        "Chocolate box with sleeve"
+      ],
+      "Chocolate with sleeve": [
+        "Chocolate with sleeve"
+      ],
+      "Branded Biscuit Box with Sleeve": [
+        "Branded Biscuit Box with Sleeve"
+      ],
+      "Branded Choc Heart with Sticker/ min 625": [
+        "Branded Choc Heart with Sticker/ min 625"
+      ],
+      "Candy Cane with Card & Ribbon": [
+        "Candy Cane with Card & Ribbon"
+      ],
+      "Sticker on box": [
+        "Sticker on box"
+      ],
+      "Branded Bar with Sleeve": [
+        "Branded Bar with Sleeve"
+      ],
+      "Christmas Pudding with Tag Attached": [
+        "Christmas Pudding with Tag Attached"
+      ],
+      "Full Colour Sleeve": [
+        "Full Colour Sleeve"
+      ],
+      "Branded Chocolate adhered to Card": [
+        "Branded Chocolate adhered to Card"
+      ],
+      "Branded Choc Bar with Sticker": [
+        "CC094FMILK - Milk Choc Bar with Sticker",
+        "CC094EMILK - Milk Choc Bar with Sticker",
+        "CC094CWHITE - White Choc Bar with Sticker",
+        "CC094DMILK - Milk Choc Bar with Sticker",
+        "CC094HWHITE - White Choc Bar with Sticker",
+        "CC094ADARK - Dark Choc Bar with Sticker",
+        "CC094IMILK - Milk Choc Bar with Sticker"
+      ],
+      "Branded Dollar with Sticker": [
+        "Branded Dollar with Sticker"
+      ],
+      "Billboard/Header Card": [
+        "Billboard/Header Card"
+      ],
+      "Lolly Bag attached to Branded Billboard": [
+        "Lolly Bag attached to Branded Billboard"
+      ],
+      "Sticker on Tin": [
+        "Sticker on Tin"
+      ],
+      " Ind. Wrapped Personalised Rock Candy $64 PER KG (min 10kg)": [
+        " Ind. Wrapped Personalised Rock Candy $64 PER KG (min 10kg)"
+      ],
+      "Chocolate Box with Sleeve": [
+        "Chocolate Box with Sleeve"
+      ],
+      "Tag attached to Organza Bag": [
+        "Tag attached to Organza Bag"
+      ],
+      "Printed Gift Card with Freckle in Bag": [
+        "Printed Gift Card with Freckle in Bag"
+      ],
+      "Embossed Chocolate in cello bag": [
+        "Embossed Chocolate in cello bag"
+      ],
+      "Unbranded Bag stapled to Branded Billboard": [
+        "Unbranded Bag stapled to Branded Billboard"
+      ],
+      "Full Colour Tag attached to organza bag": [
+        "Full Colour Tag attached to organza bag"
+      ],
+      "Branded Choc Star with Sticker/ min 700": [
+        "Branded Choc Star with Sticker/ min 700"
+      ]
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "supplierName": "David Golf",
+    "supplierId": "142",
+    "type": {
+      "Pad Print": [
+        "Full Colour Pad Print 23mm Diameter Circle",
+        "4 Colour Pad Print 23mm Diameter Circle",
+        "3 Colour Pad Print 23mm Diameter Circle",
+        "2 Colour Pad Print 23mm Diameter Circle",
+        "1 Colour Pad Print 75mm X 18mm",
+        "1 Colour Pad Print 23mm Diameter Circle",
+        "1 Colour Pad Print 35mm Wide X 3.5mm High",
+        "1 Colour Pad Print 60mm X 16mm",
+        "1 Colour Pad Print 140mm X 45mm",
+        "1 Colour Pad Print 50mm Diameter Circle"
+      ],
+      "Undecorated": [
+        "Undecorated Undecorated",
+        "Undecorated Unbranded"
+      ]
+    }
+  }
+]

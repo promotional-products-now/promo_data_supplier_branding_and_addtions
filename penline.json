@@ -1,0 +1,47 @@
+[
+  {
+    "supplierName": "Penline",
+    "supplierId": "52",
+    "type": {
+      "pad print": [
+        "1 Colour, 1 Position Print"
+      ],
+      "full colour digital print": [
+        "Full Colour, 1 Position Print"
+      ],
+      "engrave": [
+        "1 Position Engrave"
+      ],
+      "print": [
+        "print"
+      ],
+      "full colour transfer": [
+        "full colour transfer"
+      ],
+      "1st engrave incl.": [
+        "1st 1 Position Engrave incl."
+      ],
+      "rotary screen print": [
+        "1 Colour Screen Print"
+      ],
+      "transfer print": [
+        "1 Position, Full Colour Transfer"
+      ],
+      "extra accessory": [
+        "extra accessory"
+      ],
+      "Undecorated": [
+        "undecorated"
+      ],
+      "2nd engrave": [
+        "2nd 1 Position Engrave"
+      ],
+      "1 colour print": [
+        "1 colour print"
+      ],
+      "wrap print": [
+        "wrap print"
+      ]
+    }
+  }
+]
