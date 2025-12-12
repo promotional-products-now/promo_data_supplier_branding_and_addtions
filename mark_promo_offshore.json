@@ -1,0 +1,59 @@
+[
+  {
+    "supplierName": "Mark Promo (Offshore)",
+    "supplierId": "124",
+    "type": {
+      "Screen Print": [
+        "Screen Print"
+      ],
+      "Sublimation": [
+        "Sublimation"
+      ],
+      "Laser Engrave": [
+        "Laser Engrave"
+      ],
+      "Offset Print": [
+        "Offset Print"
+      ],
+      "Digital Print": [
+        "Digital Print"
+      ],
+      "Pad Print": [
+        "Pad Print"
+      ],
+      "3D Embroidery": [
+        "3D Embroidery"
+      ],
+      "Die Cut": [
+        "Die Cut"
+      ],
+      "Embroidererd Badge": [
+        "Embroidererd Badge"
+      ],
+      "Heat Transfer": [
+        "Heat Transfer"
+      ],
+      "Full Colour Printed Patch": [
+        "Full Colour Printed Patch"
+      ],
+      "UV Print": [
+        "UV Print"
+      ],
+      "Foil Stamp": [
+        "Foil Stamp"
+      ],
+      "2D Moulded": [
+        "2D Moulded"
+      ],
+      "Embossing": [
+        "Embossing"
+      ],
+      "Custom Made": [
+        "Custom Made"
+      ],
+      "Label with white background": [
+        "Label with white background"
+      ]
+    }
+  }
+]

@@ -56,14 +56,21 @@
         "Glass Decal Print - 3 Colour 1 Position",
         "Lunch Box Print - 3 Colour",
         "Lunch Box Print - 1 Colour",
-        "Lunch Box Print - 4 Colour"
+        "Lunch Box Print - 4 Colour",
+        "3 Colours (Glass Decal Print  - 3 Colour)",
+        "2 Colours (Glass Decal Print  - 2 Colour)",
+        "1 Colour (Glass Decal Print  - 1 Colour)",
+        "2 Colours (Decal Print - 2 Colours)",
+        "3 Colours (Decal Print - 3 Colours)",
+        "4 Colours (Decal Print - 4 Colours)"
       ],
       "Imitation Etch": [
         "1 Colour (Glass Decal Print - Mock Etch) 50mm W x 40mm H",
         "Glass Decal Print - Mock Etch, 1 position",
         "Glass Decal Print - Mock Etch 1 Position",
         "Glass Decal Print – Large Mock Etch 1 Position",
-        "Glass Decal Print – Mock Etch 1 Position"
+        "Glass Decal Print – Mock Etch 1 Position",
+        "1 Colour (Glass Decal Print - Mock Etch)"
       ],
       "Pad Print": [
         "3 Colours (Pad Print Ceramics - 3 Colour) ",
@@ -89,13 +96,154 @@
         "Bottle - Pad Print  - 2Colour 1 Position",
         "Bottle - Pad Print -2 Colour 1 Position",
         "Bottle - Pad Print -1 Colour 1 Position",
-        "Bottle - Pad Print  -1 Colour 1 Position"
+        "Bottle - Pad Print  -1 Colour 1 Position",
+        "1 Colour (Pad Print Ceramics - 1 Colour)",
+        "2 Colours (Pad Print Ceramics - 2 Colour)",
+        "4 Colours (Pad Print Ceramics - 4 Colour)",
+        "3 Colours (Pad Print Ceramics - 3 Colour)"
+      ],
+      "Glass Decal Print": [
+        "Glass Decal Print - 3 Colour 1 Position",
+        "Glass Decal Print - Mock Etch 1 Position",
+        "Glass Decal Print - 1 Colour 1 Position",
+        "Glass Decal Print - 2 Colour 1 Position",
+        "Glass Decal Print - 4 Colour 1 Position",
+        "Glass Decal Print - 5 Colour 1 Position",
+        "Glass Decal Print - 6 Colour 1 Position"
+      ],
+      "Decal Print Large": [
+        "Decal Print Large - 1 Colour 1 Position",
+        "Decal Print Large - 2 Colour 1 Position",
+        "Decal Print Large - 3 Colour 1 Position",
+        "Decal Print Large - 4 Colour 1 Position",
+        "Decal Print Large - 5 Colour 1 Position"
+      ],
+      "Sports Bottle Digital Print": [
+        "Sports Bottle Digital Print - Gloss Digital Rotary",
+        "Sports Bottle Digital Print - Digital Rotary"
+      ],
+      "4 Colour Process Rotary Print": [
+        "4 Colour Process Rotary Print - CMYK Screen Print",
+        "4 Colour Process Rotary Print - 1 Colour"
+      ],
+      "Decal Print": [
+        "Decal Print - 6 Colour 1 Position",
+        "Decal Print - 4 Colour 1 Position",
+        "Decal Print - 5 Colour 1 Position",
+        "Decal Print - 3 Colour 1 Position",
+        "Decal Print - 2 Colour 1 Position",
+        "Decal Print - 1 Colour 1 Position"
+      ],
+      "Rotary Print": [
+        "Rotary Print - 6 Colours",
+        "Rotary Print - 1 Colour",
+        "Rotary Print - 3 Colours",
+        "Rotary Print - 2 Colours",
+        "Rotary Print - 5 Colours",
+        "Rotary Print - 4 Colours"
+      ],
+      "Pad Print 1 - Plastic Drinkware": [
+        "Pad Print 1 - Plastic Drinkware - 1 Colour 1 Position",
+        "Pad Print 1 - Plastic Drinkware - 2 Colour 1 Position",
+        "Pad Print 1 - Plastic Drinkware - 3 Colour 1 Position",
+        "Pad Print 1 - Plastic Drinkware - 4 Colour 1 Position",
+        "Pad Print 1 - Plastic Drinkware - 5 Colour 1 Position"
+      ],
+      "Rotary Print 2 - Plastic Drinkware": [
+        "Rotary Print 2 - Plastic Drinkware - 1 Colour",
+        "Rotary Print 2 - Plastic Drinkware - 2 Colour",
+        "Rotary Print 2 - Plastic Drinkware - 3 Colour",
+        "Rotary Print 2 - Plastic Drinkware - 4 Colour",
+        "Rotary Print 2 - Plastic Drinkware - 5 Colour",
+        "Rotary Print 2 - Plastic Drinkware - 6 Colour"
+      ],
+      "CNC Direct Print": [
+        "CNC Direct Print - Direct Screen Print 1 Colour",
+        "CNC Direct Print - Direct Screen Print 2 Colour",
+        "CNC Direct Print - Direct Screen Print 3 Colour",
+        "CNC Direct Print - Direct Screen Print 4 Colour"
+      ],
+      "Pad Print Ceramics": [
+        "Pad Print Ceramics - 1 Colour 1 Position",
+        "Pad Print Ceramics - 2 Colour 1 Position",
+        "Pad Print Ceramics - 3 Colour 1 Position",
+        "Pad Print Ceramics - 4 Colour 1 Position",
+        "Pad Print Ceramics - 5 Colour 1 Position"
+      ],
+      "Pad Print 2 - Golf Balls": [
+        "Pad Print 2 - Golf Balls - 2 Colour 1 Position",
+        "Pad Print 2 - Golf Balls - 3 Colour 1 Position",
+        "Pad Print 2 - Golf Balls - 4 Colour 1 Position",
+        "Pad Print 2 - Golf Balls - 5 Colour 1 Position",
+        "Pad Print 2 - Golf Balls - 1 Colour 1 Position"
+      ],
+      "4 Colour Process": [
+        "4 Colour Process - Sublimation Print"
+      ],
+      "Umbrella Print": [
+        "Umbrella Print - 1 Colour 1 Panel"
+      ],
+      "Glass Decal Print Large": [
+        "Glass Decal Print Large - Mock Etch 1 Position",
+        "Glass Decal Print Large - 1 Colour 1 Position",
+        "Glass Decal Print Large - 2 Colour 1 Position",
+        "Glass Decal Print Large - 3 Colour 1 Position",
+        "Glass Decal Print Large - 4 Colour 1 Position",
+        "Glass Decal Print Large - 5 Colour 1 Position",
+        "Glass Decal Print Large - 6 Colour 1 Position"
+      ],
+      "Screen Print 4 - Rulers": [
+        "Screen Print 4 - Rulers - 1 Colour 1 Position",
+        "Screen Print 4 - Rulers - 2 Colour 1 Position",
+        "Screen Print 4 - Rulers - 3 Colour 1 Position",
+        "Screen Print 4 - Rulers - 4 Colour 1 Position",
+        "Screen Print 4 - Rulers - 5 Colour 1 Position",
+        "Screen Print 4 - Rulers - 6 Colour 1 Position"
+      ],
+      "Screen Print 3 - Rulers - 4 Colour Process": [
+        "Screen Print 3 - Rulers - 4 Colour Process - CMYK Screen Print"
+      ],
+      "Bottle Pad Print": [
+        "Bottle Pad Print - 5 Colour 1 Position",
+        "Bottle Pad Print - 3 Colour 1 Position",
+        "Bottle Pad Print - 2 Colour 1 Position",
+        "Bottle Pad Print - 4 Colour 1 Position",
+        "Bottle Pad Print - 1 Colour 1 Position"
+      ],
+      "Bottle Rotary Print 2": [
+        "Bottle Rotary Print 2 - 1 Colour",
+        "Bottle Rotary Print 2 - 2 Colours",
+        "Bottle Rotary Print 2 - 3 Colours"
+      ],
+      "Bottle Digital Print": [
+        "Bottle Digital Print - Gloss Digital Rotary",
+        "Bottle Digital Print - Digital Rotary"
+      ],
+      "Screen Print 5 - Surrounds & Covers": [
+        "Screen Print 5 - Surrounds & Covers - 3 Colour Top and/or Bottom",
+        "Screen Print 5 - Surrounds & Covers - 4 Colour Top and/or Bottom",
+        "Screen Print 5 - Surrounds & Covers - 6 Colour Top and/or Bottom",
+        "Screen Print 5 - Surrounds & Covers - 2 Colour Top and/or Bottom",
+        "Screen Print 5 - Surrounds & Covers - 1 Colour Top and/or Bottom",
+        "Screen Print 5 - Surrounds & Covers - 5 Colour Top and/or Bottom"
+      ],
+      "Pad Print 3 - Maxwell Williams": [
+        "Pad Print 3 - Maxwell Williams - 4 Colour 1 Position",
+        "Pad Print 3 - Maxwell Williams - 1 Colour 1 Position",
+        "Pad Print 3 - Maxwell Williams - 2 Colour 1 Position",
+        "Pad Print 3 - Maxwell Williams - 3 Colour 1 Position"
       ],
       "Undecorated": [
-        "Undecorated"
+        "Undecorated",
+        "Unprinted",
+        "White, Clear Unprinted",
+        "Navy, Black Unprinted",
+        "White Unprinted",
+        "black/cyan, black/red, Black, Matte Navy/White Unprinted"
       ],
       "Unbranded": [
-        "0 Colours (Unprinted) 50mm W x 40mm H"
+        "0 Colours (Unprinted) 50mm W x 40mm H",
+        "0 Colours (Unprinted)"
       ],
       "Rotary Direct Digital": [
         "Digital Rotary Print - Full Colour",
