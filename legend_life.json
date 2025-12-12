@@ -3,6 +3,39 @@
     "supplierName": "Legend Life",
     "supplierId": "57",
     "type": {
+      "Embroidery": [
+        "Embroidery 1k-10k",
+        "Embroidery 10k-15k"
+      ],
+      "Supacolour": [
+        "Supacolour 100mm x 60mm",
+        "Supacolour 210mm x 150mm",
+        "Supacolour 150mm x 100mm",
+        "Supacolour 300mm x 210mm",
+        "Supacolour 60mm x 60mm",
+        "Supacolour 100mm x 100mm",
+        "Supacolour 420mm x 300mm"
+      ],
+      "Supaflex": [
+        "Supaflex Matte Finish",
+        "Supaflex Gloss Finish"
+      ],
+      "Supasub": [
+        "Supasub Up to max size"
+      ],
+      "Supaetch": [
+        "Supaetch Up to max size"
+      ],
+      "SupaDTF": [
+        "SupaDTF 100mm x 60mm",
+        "SupaDTF 150mm x 100mm",
+        "SupaDTF 300mm x 210mm",
+        "SupaDTF 100mm x 100mm",
+        "SupaDTF 210mm x 300mm"
+      ],
+      "Sublimation": [
+        "Sublimation Entire Towel"
+      ],
       "Undecorated": [
         "Undecorated"
       ]
