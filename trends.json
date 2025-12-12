@@ -3,6 +3,9 @@
     "supplierName": "Trends",
     "supplierId": "3",
     "type": {
+      "s": [
+        "Screen Print (100mm x 100mm (one colour only))"
+      ],
       "Digital Label": [
         "Including full colour printing",
         "Product Cost",
