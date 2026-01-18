@@ -3,27 +3,27 @@
     "supplierName": "Banners Ink",
     "supplierId": "14",
     "type": {
-      "Undecorated": [
-        "Undecorated",
-        "[Not supplied]"
-      ],
       "Full colour dye sublimation": [
         "Full Colour CMYK Dye Sublimation",
         "Full Colour",
         "By Metre"
       ],
-      "Screen Print": [
-        "$90.00 setup per colour per side"
-      ],
-      "Full colour dye sublimation| Silver": [
-        "Full Colour CMYK Dye Sublimation"
+      "Undecorated": [
+        "Undecorated",
+        "[Not supplied]"
       ],
       "Full colour digital print": [
         "Full Colour",
         "Full Colour CMYK Dye Sublimation",
         "By Metre"
       ],
+      "Screen Print": [
+        "$90.00 setup per colour per side"
+      ],
       "Full colour dye sublimation| Black": [
+        "Full Colour CMYK Dye Sublimation"
+      ],
+      "Full colour dye sublimation| Silver": [
         "Full Colour CMYK Dye Sublimation"
       ],
       "Full colour digital Print": [

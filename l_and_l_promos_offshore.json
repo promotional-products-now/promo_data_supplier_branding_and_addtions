@@ -9,20 +9,21 @@
       "Pad print": [
         "1 color 1 side 1 location"
       ],
-      "Sticker": [
-        "1 color 1 side 1 location"
+      "Laser engraved": [
+        "1 color 1 side 1 location",
+        "1 side 1 location"
       ],
-      "Label": [
+      "Sticker": [
         "1 color 1 side 1 location"
       ],
       "Heat transfer": [
         "1 color 1 side 1 location"
       ],
-      "Laser engraved": [
-        "1 side 1 location",
-        "1 color 1 side 1 location"
-      ],
       "Sublimated print": [
+        "1 color 1 side 1 location",
+        "full color 1 side 1 location"
+      ],
+      "Label": [
         "1 color 1 side 1 location"
       ],
       "UV print": [
@@ -31,17 +32,60 @@
       "Screen Print": [
         "1 color 1 side 1 location"
       ],
+      "Debossed print": [
+        "1 side 1 location"
+      ],
       "Jacquard": [
         "1 color 1 side 1 location"
       ],
       "Epoxy Dome": [
         "1 color 1 side 1 location"
       ],
-      "Debossed print": [
-        "1 side 1 location"
-      ],
       "Dye Sublimated": [
         "Full color 1 side 1 location"
+      ],
+      "Deboss": [
+        "1 color 1 side 1 location"
+      ],
+      "Mold": [
+        "1 color 1 side 1 location"
+      ],
+      "Offset print": [
+        "1 color 1 side 1 location"
+      ],
+      "Embroidery": [
+        "1 color 1 side 1 location"
+      ],
+      "Heart transfer": [
+        "1 color 1 side 1 location"
+      ],
+      "Undecorated": [
+        "[Not supplied]"
+      ],
+      "Hot Stamped": [
+        "1 color 1 side 1 location"
+      ],
+      "UV Print": [
+        "1 color 1 side 1 location"
+      ],
+      "Thermal transfer Print": [
+        "1 color 1 side 1 location"
+      ],
+      "Heat Transfer": [
+        "1 color 1 side 1 location"
+      ],
+      "Sublimation": [
+        "Full color 1 side 1 location",
+        "1 color 1 side 1 location"
+      ],
+      "Digital Printing": [
+        "1 color 1 side 1 location"
+      ],
+      "Full-color digital": [
+        "1 color 1 side 1 location"
+      ],
+      "Pad Print": [
+        "1 color 1 side 1 location"
       ]
     }
   }

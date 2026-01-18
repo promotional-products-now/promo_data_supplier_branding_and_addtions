@@ -3,23 +3,27 @@
     "supplierName": "Adprint",
     "supplierId": "85",
     "type": {
+      "Offset": [
+        "2 pms",
+        "3 pms",
+        "1 pms",
+        "cmyk",
+        "3",
+        "FOC"
+      ],
       "Digital cmyk": [
         "cmyk",
         "1 pms text cmyk cover"
       ],
-      "Offset": [
-        "1 pms",
-        "3 pms",
-        "2 pms",
-        "3",
-        "cmyk",
-        "FOC"
+      "Offset & digital cmyk": [
+        "FOC",
+        "1 pms text cmyk cover",
+        "cmyk"
       ],
       "Undecorated": [
         "[Not supplied]"
       ],
-      "Offset & digital cmyk": [
-        "FOC",
+      "Digital black": [
         "1 pms text cmyk cover",
         "cmyk"
       ]

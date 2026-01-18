@@ -3,31 +3,46 @@
     "supplierName": "HT Premium Inc (Offshore)",
     "supplierId": "75",
     "type": {
-      "Pad print": [
-        "1 color 1 location"
-      ],
-      "Laser Engraved,Silkscreen": [
-        "1 color 1 location"
-      ],
       "Silkscreen": [
         "1 color 1 location"
       ],
       "Other": [
         "1 color 1 location"
       ],
-      "Heat Transfer": [
+      "Laser Engraved": [
         "1 color 1 location"
       ],
-      "Laser Engraved": [
+      "Debossed": [
+        "1 color 1 location"
+      ],
+      "Debossed,Foil Stamped,Silkscreen": [
+        "1 color 1 location"
+      ],
+      "Laser Engraved,Silkscreen": [
+        "1 color 1 location"
+      ],
+      "Foil Stamped": [
+        "1 color 1 location"
+      ],
+      "Embroidered": [
         "1 color 1 location"
       ],
       "Printed": [
         "1 color 1 location"
       ],
-      "Embroidered,Silkscreen": [
+      "Debossed,Silkscreen,Printed": [
+        "1 color 1 location"
+      ],
+      "Hot Stamped": [
         "1 color 1 location"
       ],
       "Embossed": [
+        "1 color 1 location"
+      ],
+      "Debossed,Silkscreen": [
+        "1 color 1 location"
+      ],
+      "Heat Transfer": [
         "1 color 1 location"
       ],
       "Pad Print": [
@@ -36,34 +51,16 @@
       "Unimprinted": [
         "1 color 1 location"
       ],
-      "Hot Stamped": [
-        "1 color 1 location"
-      ],
-      "Debossed": [
-        "1 color 1 location"
-      ],
-      "Heat Transfer,Silkscreen": [
-        "1 color 1 location"
-      ],
-      "Embroidered": [
-        "1 color 1 location"
-      ],
-      "Foil Stamped": [
-        "1 color 1 location"
-      ],
-      "Sublimation": [
-        "1 color 1 location"
-      ],
-      "Debossed,Silkscreen,Printed": [
+      "Embroidered,Silkscreen": [
         "1 color 1 location"
       ],
       "Embossed,Silkscreen": [
         "1 color 1 location"
       ],
-      "Debossed,Foil Stamped,Silkscreen": [
+      "Heat Transfer,Silkscreen": [
         "1 color 1 location"
       ],
-      "Debossed,Silkscreen": [
+      "Sublimation": [
         "1 color 1 location"
       ],
       "Other,Silkscreen": [
@@ -76,6 +73,42 @@
         "1 color 1 location"
       ],
       "Debossed,Hot Stamped": [
+        "1 color 1 location"
+      ],
+      "Embroidered,Other": [
+        "1 color 1 location"
+      ],
+      "Laser Engraved,Printed": [
+        "1 color 1 location"
+      ],
+      "Full Color": [
+        "1 color 1 location"
+      ],
+      "Embossed,Foil Stamped": [
+        "1 color 1 location"
+      ],
+      "Hot Stamped,Silkscreen": [
+        "1 color 1 location"
+      ],
+      "NULL": [
+        "1 color 1 location"
+      ],
+      "Other,Printed": [
+        "1 color 1 location"
+      ],
+      "Embossed,Hot Stamped": [
+        "1 color 1 location"
+      ],
+      "Pad Print,Silkscreen": [
+        "1 color 1 location"
+      ],
+      "Foil Stamped,Printed": [
+        "1 color 1 location"
+      ],
+      "Laser Engraved,Pad Print": [
+        "1 color 1 location"
+      ],
+      "Debossed,Laser Engraved,Silkscreen": [
         "1 color 1 location"
       ]
     }

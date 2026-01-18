@@ -4,34 +4,15 @@
     "supplierId": "96",
     "type": {
       "Screen Printed": [
-        "Including 1 color 1 position"
-      ],
-      "UV Printing": [
-        "Including 1 color 1 position"
-      ],
-      "UV Printed": [
-        "Including 1 color 1 position"
-      ],
-      "Laser Engraved": [
-        "Including 1 color 1 position"
-      ],
-      "4-color process": [
-        "Including full color 1 position"
-      ],
-      "Sticker Printed": [
-        "Including 1 color 1 position"
-      ],
-      "Embroidery": [
-        "Including 1 color 1 position"
+        "Including 1 color 1 position",
+        "Including 1 color 1 side"
       ],
       "Debossed": [
         "Including 1 color 1 position"
       ],
-      "Engrave": [
-        "Including 1 color 1 position"
-      ],
-      "Digital Ink-jet": [
-        "Including 1 color 1 position"
+      "Laser Engraved": [
+        "Including 1 color 1 position",
+        "Including 1 position"
       ],
       "Pad Print": [
         "Including 1 color 1 position"
@@ -39,31 +20,59 @@
       "UV printed": [
         "Including full color 1 position"
       ],
-      "Full-color digital": [
+      "Sticker Printed": [
+        "Including 1 color 1 position"
+      ],
+      "Digital Ink-jet": [
+        "Including 1 color 1 position"
+      ],
+      "Engrave": [
         "Including 1 color 1 position"
       ],
       "Laser engraved": [
         "Including 1 color 1 position"
       ],
+      "4-color process": [
+        "Including full color 1 position"
+      ],
+      "Full-color digital": [
+        "Including 1 color 1 position"
+      ],
+      "Embroidery": [
+        "Including 1 color 1 position",
+        "Including 1 color 1 side"
+      ],
+      "UV Printed": [
+        "Including 1 color 1 position"
+      ],
       "Debossed | Screen Printed": [
+        "Including 1 color 1 position"
+      ],
+      "UV Printing": [
+        "Including 1 color 1 position"
+      ],
+      "Digital Printing": [
         "Including 1 color 1 position"
       ],
       "4-color Process": [
         "Including Full color 1 position"
       ],
-      "Digital Printing": [
-        "Including 1 color 1 position"
+      "Dye Sublimation": [
+        "Including full colors 1 side"
       ],
       "Sublimation printing": [
         "Including 1 color 1 position"
-      ],
-      "Dye Sublimation": [
-        "Including full colors 1 side"
       ],
       "Laer engraved": [
         "Including 1 color 1 position"
       ],
       "Depossed": [
+        "Including 1 color 1 position"
+      ],
+      "Pad printed": [
+        "Including 1 color 1 position"
+      ],
+      "Screen Printing": [
         "Including 1 color 1 position"
       ],
       "Screen printed": [
@@ -72,19 +81,69 @@
       "Embossing": [
         "Including 1 color 1 position"
       ],
-      "Screen Printing": [
+      "Thermal transfer": [
         "Including 1 color 1 position"
       ],
       "Undecorated": [
-        "undecorated"
-      ],
-      "Pad printed": [
-        "Including 1 color 1 position"
+        "undecorated",
+        "[Not supplied]"
       ],
       "Laser": [
         "Including 1 color 1 position"
       ],
-      "Thermal transfer": [
+      "Digital Printing| Screen Printed": [
+        "Including 1 color 1 position"
+      ],
+      "Heat transfer": [
+        "Including 1 color 1 position",
+        "Including Full color 2 positions"
+      ],
+      "Heat Tranfer": [
+        "Including 1 color 1 position"
+      ],
+      "Screen Printed/Debossed": [
+        "Including 1 color 1 position"
+      ],
+      "Laser engraving | Screen Printed": [
+        "Including 1 color 1 position"
+      ],
+      "Laser engraving": [
+        "Including 1 color 1 position"
+      ],
+      "Non-woven label": [
+        "Including 1 color 1 position"
+      ],
+      "Heat Transfer": [
+        "Including 1 color 1 position"
+      ],
+      "woven label": [
+        "Including 1 color 1 position"
+      ],
+      "Silk Screen": [
+        "Including 1 color 1 position"
+      ],
+      "Full color Digital": [
+        "Including Full color 2 positions"
+      ],
+      "Pad printing": [
+        "Including 1 color 1 position"
+      ],
+      "Full Color Digital": [
+        "Including full color 1 position"
+      ],
+      "Silkscreen": [
+        "Including 1 color 1 position"
+      ],
+      "baking": [
+        "Including 1 color 1 position"
+      ],
+      "Silk screen": [
+        "Including 1 color 1 position"
+      ],
+      "digital printing": [
+        "Including full color 1 position"
+      ],
+      "Digital": [
         "Including 1 color 1 position"
       ]
     }

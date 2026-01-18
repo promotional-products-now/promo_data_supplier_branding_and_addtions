@@ -1,0 +1,22 @@
+[
+  {
+    "supplierName": "Sequoia Enterprises",
+    "supplierId": "162",
+    "type": {
+      "Digital": [
+        "Digital Wrap Print - on any bottle colour. ",
+        "Digital Wrap Print - on any bottle colour. Wrap Print - Top Ring 180 x 20mm, Bottom ring 180 x 60mm",
+        "Digital Wrap Print - on any bottle colour. Wrap Print - Top ring 235 x 25mm, Bottom ring 235 x 95mm"
+      ],
+      "Screen print": [
+        "Wrap Print - 1 colour on WHITE bottle ",
+        "Wrap Print - 1 colour on WHITE bottle Wrap Print - Top Ring 180 x 20mm, Bottom ring 180 x 60mm",
+        "Wrap Print - 1 colour on WHITE bottle Wrap Print - Top ring 215 x 25mm, Bottom ring 215 x 95mm",
+        "Wrap Print - 1 colour on WHITE bottle Wrap Print - 100mm x 216mm",
+        "Wrap Print - 1 colour on WHITE bottle Wrap Print - Top ring 215 x 23mm, Bottom ring 215 x 87mm",
+        "Wrap Print - 1 colour on Natural bottle Wrap Print - Top ring 215 x 25mm, Bottom ring 215 x 95mm",
+        "Wrap Print - 1 colour on White bottle 160mm x 250mm"
+      ]
+    }
+  }
+]

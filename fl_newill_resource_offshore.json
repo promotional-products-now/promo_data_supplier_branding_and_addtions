@@ -3,9 +3,6 @@
     "supplierName": "FL Newill Resource (Offshore)",
     "supplierId": "79",
     "type": {
-      "Full Color Print": [
-        "Full color, Full size print"
-      ],
       "Screen Print": [
         "1 colour, 1 position print",
         "1 colour, 2 position print"
@@ -17,11 +14,8 @@
       "Pad Print": [
         "1 colour, 1 position print"
       ],
-      "Heat Transfer": [
-        "1 colour, 1 position print",
-        "1 colour, 6 position print",
-        "Full colour, 1 position print",
-        "full colour, 1 position print"
+      "Full Color Print": [
+        "Full color, Full size print"
       ],
       "Silkscreen": [
         "1 colour, 1 position print",
@@ -29,92 +23,98 @@
         "1 colour 1 position print",
         "1 colour 1 position"
       ],
+      "Undecorated": [
+        "undecorated"
+      ],
+      "Embroidery": [
+        "1 colour, 1 position print",
+        "1 colour, full size"
+      ],
+      "Heat Transfer": [
+        "1 colour, 1 position print",
+        "1 colour, 6 position print",
+        "Full colour, 1 position print",
+        "full colour, 1 position print"
+      ],
+      "Sewing Label": [
+        "1 colour, 1 position print",
+        "1 colour, 1 position sewing label"
+      ],
+      "Laser Engraved": [
+        "1 colour, 1 position print"
+      ],
       "Full Color": [
         "Full color, 1 position print",
         "Full colour, 1 position print",
         "1 colour, 1 position print",
         "Full Color"
       ],
-      "Embroidery": [
-        "1 colour, 1 position print",
-        "1 colour, full size"
+      "Laser engraved": [
+        "1 colour, 1 position print"
       ],
       "Decorating Firing": [
-        "1 colour, 1 position print"
-      ],
-      "Undecorated": [
-        "undecorated"
-      ],
-      "Laser Engraved": [
-        "1 colour, 1 position print"
-      ],
-      "Sewing Label": [
-        "1 colour, 1 position print",
-        "1 colour, 1 position sewing label"
-      ],
-      "Laser engraved": [
         "1 colour, 1 position print"
       ],
       "Embossed": [
         "1 colour, 1 position print"
       ],
-      "Laer Print": [
+      "Decorating firing": [
+        "1 colour, 1 position print"
+      ],
+      "Sublimation": [
+        "Full color, 1 position print",
+        "full colours, full size",
         "1 colour, 1 position print"
       ],
       "Full color": [
         "Full color, 1 position print",
         "Full color"
       ],
-      "Full color Print": [
-        "1 colour, 1 position print",
-        "Full color, 1 position print"
-      ],
-      "Sublimation": [
-        "Full color, 1 position print",
-        "1 colour, 1 position print",
-        "full colours, full size"
-      ],
       "Label": [
         "1 colour, 1 position label"
       ],
-      "Decorating firing": [
+      "Laer Print": [
         "1 colour, 1 position print"
       ],
-      "Sewn label": [
-        "1 colour, 1 position print"
-      ],
-      "UV Print": [
+      "Full color Print": [
         "1 colour, 1 position print",
-        "full colours, full size",
-        "Full colour, Full size print"
-      ],
-      "Metal plate": [
-        "1 colour, 1 position print"
-      ],
-      "Stamp logo": [
-        "Stamp logo, 1 position"
-      ],
-      "Digital Printing": [
-        "full colours, full size",
-        "1 colour, 1 position print"
+        "Full color, 1 position print"
       ],
       "Sticker": [
         "1 colour, 1 position sticker",
         "1 colour, 1 position print"
       ],
-      "Drip Glue": [
+      "Digital Printing": [
+        "full colours, full size",
+        "1 colour, 1 position print"
+      ],
+      "UV Print": [
+        "full colours, full size",
+        "1 colour, 1 position print",
+        "Full colour, Full size print"
+      ],
+      "Sewn label": [
+        "1 colour, 1 position print"
+      ],
+      "Stamp logo": [
+        "Stamp logo, 1 position"
+      ],
+      "Metal plate": [
         "1 colour, 1 position print"
       ],
       "Debossed": [
         "1 colour, 1 position print"
       ],
+      "Drip Glue": [
+        "1 colour, 1 position print"
+      ],
       "Heat Tranfer": [
         "1 colour, 1 position print"
       ],
-      "Hot Stamped": [
+      "Engraved": [
         "1 colour, 1 position print"
       ],
-      "Engraved": [
+      "Hot Stamped": [
         "1 colour, 1 position print"
       ],
       "Other": [

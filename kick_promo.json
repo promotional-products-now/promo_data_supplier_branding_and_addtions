@@ -2,6 +2,10 @@
   {
     "supplierName": "Kick Promo",
     "supplierId": "155",
-    "type": {}
+    "type": {
+      "Full Colour": [
+        "Full Colour Print"
+      ]
+    }
   }
 ]

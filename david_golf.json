@@ -4,16 +4,43 @@
     "supplierId": "142",
     "type": {
       "Pad Print": [
-        "Full Colour Pad Print 23mm Diameter Circle",
         "4 Colour Pad Print 23mm Diameter Circle",
-        "3 Colour Pad Print 23mm Diameter Circle",
         "2 Colour Pad Print 23mm Diameter Circle",
-        "1 Colour Pad Print 75mm X 18mm",
+        "3 Colour Pad Print 23mm Diameter Circle",
+        "Full Colour Pad Print 23mm Diameter Circle",
+        "ADD Full Colour Pad Print 23mm Diameter Circle",
+        "ADD  2  Colour Pad Prin 23mm Diameter Circle",
+        "ADD 4 Colour Pad Print 23mm Diameter Circle",
+        "ADD 3 Colour Pad Print 23mm Diameter Circle",
+        "ADD  2  Colour Pad Prin 35mm Wide X 3.5mm High",
+        "ADD 3 Colour Pad Print 60mm X 16mm",
+        "ADD  2  Colour Pad Prin 60mm X 16mm",
+        "ADD 4 Colour Pad Print 60mm X 16mm",
+        "ADD Full Colour Pad Print 60mm X 16mm",
+        "ADD  2  Colour Pad Prin 75mm X 18mm",
+        "ADD 3 Colour Pad Print 140mm X 45mm",
+        "ADD  2  Colour Pad Prin 140mm X 45mm",
+        "ADD Full Colour Pad Print 140mm X 45mm",
+        "ADD Full Colour Pad Print 75mm X 18mm",
+        "ADD 3 Colour Pad Print 75mm X 18mm",
+        "ADD 4 Colour Pad Print 140mm X 45mm",
+        "ADD 4 Colour Pad Print 75mm X 18mm",
+        "ADD 3 Colour Pad Print 50mm Diameter Circle",
+        "ADD Full Colour Pad Print 50mm Diameter Circle",
+        "ADD  2  Colour Pad Prin 50mm Diameter Circle",
+        "ADD 4 Colour Pad Print 50mm Diameter Circle",
         "1 Colour Pad Print 23mm Diameter Circle",
-        "1 Colour Pad Print 35mm Wide X 3.5mm High",
-        "1 Colour Pad Print 60mm X 16mm",
         "1 Colour Pad Print 140mm X 45mm",
+        "1 Colour Pad Print 35mm Wide X 3.5mm High",
+        "1 Colour Pad Print 75mm X 18mm",
+        "1 Colour Pad Print 60mm X 16mm",
         "1 Colour Pad Print 50mm Diameter Circle"
+      ],
+      "Embroidery": [
+        "Add Embroidery - 7,000 Stitches 90mm Wide"
+      ],
+      "Screen Print": [
+        "ADD FULL COLOUR 4 PANEL DECORATION "
       ],
       "Undecorated": [
         "Undecorated Undecorated",

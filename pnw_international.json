@@ -4,12 +4,12 @@
     "supplierId": "16",
     "type": {
       "Undecorated": [
-        "All Sizes",
-        "Sizes S, M, L, XL, 2XL, 3XL, 4XL, 5XL",
-        "Sizes ^04, ^06, ^08, ^10, ^12, ^14, ^16",
-        "Sizes S, M, L, XL, 2XL, 3XL, 5XL",
-        "Sizes S, M, L, XL, 2XL, 3XL, 4XL",
         "Sizes S, M, L, XL, 2XL, 3XL",
+        "All Sizes",
+        "Sizes ^04, ^06, ^08, ^10, ^12, ^14, ^16",
+        "Sizes S, M, L, XL, 2XL, 3XL, 4XL, 5XL",
+        "Sizes S, M, L, XL, 2XL, 3XL, 4XL",
+        "Sizes S, M, L, XL, 2XL, 3XL, 5XL",
         "Sizes XS, S, M, L, XL, 2XL, 3XL, 4XL, 5XL",
         "Sizes ^06, ^08, ^10, ^12, ^14, ^16",
         "Sizes ^18, ^20, ^22",

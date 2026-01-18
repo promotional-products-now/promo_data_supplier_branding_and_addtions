@@ -2,6 +2,10 @@
   {
     "supplierName": "Startek Imports",
     "supplierId": "34",
-    "type": {}
+    "type": {
+      "Undecorated": [
+        "[Not supplied]"
+      ]
+    }
   }
 ]

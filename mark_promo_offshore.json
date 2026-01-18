@@ -6,53 +6,53 @@
       "Screen Print": [
         "Screen Print"
       ],
-      "Sublimation": [
-        "Sublimation"
+      "Pad Print": [
+        "Pad Print"
       ],
       "Laser Engrave": [
         "Laser Engrave"
       ],
-      "Offset Print": [
-        "Offset Print"
-      ],
       "Digital Print": [
         "Digital Print"
-      ],
-      "Pad Print": [
-        "Pad Print"
       ],
       "3D Embroidery": [
         "3D Embroidery"
       ],
-      "Die Cut": [
-        "Die Cut"
-      ],
       "Embroidererd Badge": [
         "Embroidererd Badge"
       ],
-      "Heat Transfer": [
-        "Heat Transfer"
+      "Sublimation": [
+        "Sublimation"
       ],
-      "Full Colour Printed Patch": [
-        "Full Colour Printed Patch"
+      "Offset Print": [
+        "Offset Print"
       ],
       "UV Print": [
         "UV Print"
       ],
-      "Foil Stamp": [
-        "Foil Stamp"
-      ],
       "2D Moulded": [
         "2D Moulded"
       ],
-      "Embossing": [
-        "Embossing"
+      "Heat Transfer": [
+        "Heat Transfer"
+      ],
+      "Die Cut": [
+        "Die Cut"
+      ],
+      "Foil Stamp": [
+        "Foil Stamp"
+      ],
+      "Full Colour Printed Patch": [
+        "Full Colour Printed Patch"
       ],
       "Custom Made": [
         "Custom Made"
       ],
       "Label with white background": [
         "Label with white background"
+      ],
+      "Embossing": [
+        "Embossing"
       ]
     }
   }

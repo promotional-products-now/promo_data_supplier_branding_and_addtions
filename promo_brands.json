@@ -3,72 +3,39 @@
     "supplierName": "Promo Brands",
     "supplierId": "11",
     "type": {
+      "4 Colour Process": [
+        "Additional colour/location",
+        "10 Days Service, 4 Colour Process",
+        "5 Days Service, 4 Colour Process",
+        "3 Days Service, 4 Colour Process",
+        "24 Hours Service, 4 Colour Process"
+      ],
       "Screen Print": [
         "Additional colour/location",
         "Additional Colour / Location",
         "10 Days Service, Screen Print",
-        "15 Days Service, Screen Print",
         "20 Days Service, Screen Print",
+        "15 Days Service, Screen Print",
         "35 Days Service, Screen Print",
-        "25 Days Service, Screen Print",
         "3 Day Service*, Screen Print, One Colour / Location",
-        "3 Days Service, Screen Print",
+        "25 Days Service, Screen Print",
         "24 Hours Service, Screen Print",
+        "3 Days Service, Screen Print",
         "5 Days Service, Screen Print",
         "EOFY Sale, Screen Print"
-      ],
-      "Pad Print": [
-        "Additional colour/location",
-        "Additional Colour / Location",
-        "Additional Colour/Location",
-        "Additional Location",
-        "Additional Colour  Location",
-        "25 Days Service, Pad Print",
-        "10 Days Service, Pad Print",
-        "15 Days Service, Pad Print",
-        "3 Day Service, Pad Print, One Colour/Location",
-        "3 Day Service, Pad Print, One Colour ",
-        "3 Day Service*, Pad Print, One Colour / Location",
-        "3 Day Service, Pad Print, One Colour / Location",
-        " 3 Day service , Pad Print, One Colour / Location",
-        "3 Days Service, Pad Print",
-        "24 Hours Service, Pad Print",
-        "24 Hr Rush**, Pad Print, One Colour/Location",
-        "EOFY Sale, Pad Print",
-        "10 Day Service*, Pad Print, One Colour/Location",
-        "10 Day Service*, Pad Print, One Colour / Location",
-        " 10 Day service , Pad Print, One Colour / Location",
-        "24 Hr Rush**, Pad Print, One Colour ",
-        " 24 hr rush , Pad Print, One Colour / Location",
-        "24 Hr Rush**, Pad Print, One Colour / Location",
-        "10 Day Service*, Pad Print, One Colour "
       ],
       "Digital Transfer": [
         "Additional colour/location",
         "10 Days Service, Digital Transfer",
-        "24 Hours Service, Digital Transfer",
         "3 Days Service, Digital Transfer",
+        "24 Hours Service, Digital Transfer",
         "15 Days Service, Digital Transfer"
       ],
-      "4 Colour Process": [
+      "4 Colour Process (Magnet Only)": [
         "Additional colour/location",
-        "5 Days Service, 4 Colour Process",
-        "10 Days Service, 4 Colour Process",
-        "3 Days Service, 4 Colour Process",
-        "24 Hours Service, 4 Colour Process"
-      ],
-      "Digital Transfer (Pouch)": [
-        "Additional colour/location",
-        "10 Days Service, Digital Transfer (Pouch)",
-        "3 Days Service, Digital Transfer (Pouch)",
-        "24 Hours Service, Digital Transfer (Pouch)"
-      ],
-      "Mirror Laser Engraving": [
-        "Additional colour/location",
-        "25 Days Service, Mirror Laser Engraving",
-        "10 Days Service, Mirror Laser Engraving",
-        "24 Hours Service, Mirror Laser Engraving",
-        "3 Days Service, Mirror Laser Engraving"
+        "10 Days Service, 4 Colour Process (Magnet Only)",
+        "24 Hours Service, 4 Colour Process (Magnet Only)",
+        "3 Days Service, 4 Colour Process (Magnet Only)"
       ],
       "Full Colour Sublimation": [
         "Additional colour/location",
@@ -77,35 +44,55 @@
         "18 Days Service, Full Colour Sublimation",
         "25 Days Service, Full Colour Sublimation"
       ],
-      "4 Colour Process (Magnet Only)": [
+      "Digital Transfer (Pouch)": [
         "Additional colour/location",
-        "10 Days Service, 4 Colour Process (Magnet Only)",
-        "24 Hours Service, 4 Colour Process (Magnet Only)",
-        "3 Days Service, 4 Colour Process (Magnet Only)"
+        "10 Days Service, Digital Transfer (Pouch)",
+        "3 Days Service, Digital Transfer (Pouch)",
+        "24 Hours Service, Digital Transfer (Pouch)"
       ],
-      "Digital Label": [
+      "Pad Print": [
         "Additional colour/location",
-        "10 Days Service, Digital Label",
-        "3 Day service , Digital Label, One Location",
-        "15 Days Service, Digital Label",
-        "3 Days Service, Digital Label",
-        "24 Hours Service, Digital Label",
-        "10 Day service , Digital Label, One Location",
-        "3 Day Service, Digital Label, One Location",
-        " 24 hr rush , Digital Label, One Location",
-        "10 Day Service, Digital Label, One Location"
-      ],
-      "Laser Engraving": [
-        "Additional colour/location",
+        "Additional Colour/Location",
+        "Additional Colour / Location",
         "Additional Location",
-        "10 Days Service, Laser Engraving",
-        "15 Days Service, Laser Engraving",
-        "24 Hours Service, Laser Engraving",
-        "3 Days Service, Laser Engraving",
-        "25 Days Service, Laser Engraving",
-        "3 Day Service, Laser Engraving, One Location",
-        "24 Hr Rush**, Laser Engraving, One Location",
-        "10 Day Service*, Laser Engraving, One Location"
+        "Additional Colour  Location",
+        "10 Days Service, Pad Print",
+        "25 Days Service, Pad Print",
+        "15 Days Service, Pad Print",
+        "3 Day Service, Pad Print, One Colour/Location",
+        "3 Day Service*, Pad Print, One Colour / Location",
+        "3 Day Service, Pad Print, One Colour / Location",
+        " 3 Day service , Pad Print, One Colour / Location",
+        "3 Day Service, Pad Print, One Colour ",
+        "24 Hours Service, Pad Print",
+        "3 Days Service, Pad Print",
+        "EOFY Sale, Pad Print",
+        "24 Hr Rush**, Pad Print, One Colour/Location",
+        "10 Day Service*, Pad Print, One Colour/Location",
+        "24 Hr Rush**, Pad Print, One Colour / Location",
+        "10 Day Service*, Pad Print, One Colour / Location",
+        " 10 Day service , Pad Print, One Colour / Location",
+        " 24 hr rush , Pad Print, One Colour / Location",
+        "10 Day Service*, Pad Print, One Colour ",
+        "24 Hr Rush**, Pad Print, One Colour ",
+        "25 – 30 Days Service, Pad Print"
+      ],
+      "Mirror Laser Engraving": [
+        "Additional colour/location",
+        "25 Days Service, Mirror Laser Engraving",
+        "10 Days Service, Mirror Laser Engraving",
+        "3 Days Service, Mirror Laser Engraving",
+        "24 Hours Service, Mirror Laser Engraving"
+      ],
+      "Direct Digital Print": [
+        "Additional colour/location",
+        "10 Days Service, Direct Digital Print",
+        "24 Hours Service, Direct Digital Print",
+        "3 Days Service, Direct Digital Print",
+        "25 Days Service, Direct Digital Print",
+        "15 Days Service, Direct Digital Print",
+        "10 Day Service, Direct Digital Print, One Location",
+        "3 Day Service, Direct Digital Print, One Location"
       ],
       "Digital Print Insert": [
         "Additional colour/location",
@@ -123,29 +110,14 @@
         "Additional colour/location",
         "One Location ",
         "Additonal Location",
-        "3 Day Service, Laser Engrave, One Colour ",
         "10 Days Service, Laser Engrave",
+        "3 Day Service, Laser Engrave, One Colour ",
         "3 Day Service, Laser Engrave, One Location",
-        "24 Hours Service, Laser Engrave",
         "3 Days Service, Laser Engrave",
+        "24 Hours Service, Laser Engrave",
         "24 Hr Rush**, Laser Engrave, One Colour ",
-        "10 Day Service*, Laser Engrave, One Location",
-        "10 Day Service*, Laser Engrave, One Colour "
-      ],
-      "Pad Print (One Colour Only)": [
-        "Additional Location ",
-        "3 Day Service, Pad Print (One Colour Only), One Colour/Location",
-        "10 Day Service, Pad Print (One Colour Only), One Colour/Location"
-      ],
-      "Direct Digital Print": [
-        "Additional colour/location",
-        "10 Days Service, Direct Digital Print",
-        "24 Hours Service, Direct Digital Print",
-        "3 Days Service, Direct Digital Print",
-        "25 Days Service, Direct Digital Print",
-        "15 Days Service, Direct Digital Print",
-        "10 Day Service, Direct Digital Print, One Location",
-        "3 Day Service, Direct Digital Print, One Location"
+        "10 Day Service*, Laser Engrave, One Colour ",
+        "10 Day Service*, Laser Engrave, One Location"
       ],
       "Pad print ": [
         "Additional colour/location",
@@ -153,23 +125,23 @@
         "24 Hours Service, Pad print ",
         "3 Days Service, Pad print "
       ],
-      "Screen / Pad Print": [
-        "Additional colour/location",
-        "15 Days Service, Screen / Pad Print"
-      ],
-      "Sublimation Print": [
-        "Additional colour/location",
-        "15 Days Service, Sublimation Print",
-        "18 Days Service, Sublimation Print",
-        "10 Days Service, Sublimation Print",
-        "3 Days Service, Sublimation Print",
-        "24 Hours Service, Sublimation Print"
-      ],
       "Digital Direct Print": [
         "Additional colour/location",
         "10 Days Service, Digital Direct Print",
-        "3 Days Service, Digital Direct Print",
-        "24 Hours Service, Digital Direct Print"
+        "24 Hours Service, Digital Direct Print",
+        "3 Days Service, Digital Direct Print"
+      ],
+      "Laser Engraving": [
+        "Additional colour/location",
+        "Additional Location",
+        "10 Days Service, Laser Engraving",
+        "15 Days Service, Laser Engraving",
+        "24 Hours Service, Laser Engraving",
+        "3 Days Service, Laser Engraving",
+        "25 Days Service, Laser Engraving",
+        "3 Day Service, Laser Engraving, One Location",
+        "10 Day Service*, Laser Engraving, One Location",
+        "24 Hr Rush**, Laser Engraving, One Location"
       ],
       "Digital Print": [
         "Additional colour/location",
@@ -178,26 +150,55 @@
         "Additional Colour / Location",
         "Additional Location ",
         "10 Days Service, Digital Print",
+        "15 Days Service, Digital Print",
         "24 Hours Service, Digital Print",
         "3 Days Service, Digital Print",
-        "15 Days Service, Digital Print",
-        "3 Day Service, Digital Print, One Location",
-        "10 Day Service*, Digital Print, One Location",
         "3 Day Service*, Digital Print, One Location",
+        "10 Day Service*, Digital Print, One Location",
         "24 Hr Rush**, Digital Print, One Location",
-        "25 Days Service, Digital Print",
-        " 3 Day service , Digital Print, 1 Colour/1 Location",
-        "3 Day Service, Digital Print, One Colour",
-        "24 Hr Rush**, Digital Print, One Location ",
-        "10 Day Service*, Digital Print, One Location ",
+        "3 Day Service, Digital Print, One Location",
+        "3 Day Service, Digital Print, One Colour / Location",
+        "24 Hr Rush**, Digital Print, One Colour / Location",
+        "10 Day Service*, Digital Print, One Colour / Location",
         " 24 hr rush , Digital Print, 1 Colour/1 Location",
         " 10 Day service , Digital Print, 1 Colour/1 Location",
-        "24 Hr Rush**, Digital Print, One Colour / Location",
+        " 3 Day service , Digital Print, 1 Colour/1 Location",
+        "25 Days Service, Digital Print",
         "10 Day Service*, Digital Print, One Colour",
+        "3 Day Service, Digital Print, One Colour",
         "24 Hr Rush**, Digital Print, One Colour",
-        "3 Day Service, Digital Print, One Colour / Location",
-        "10 Day Service*, Digital Print, One Colour / Location",
+        "24 Hr Rush**, Digital Print, One Location ",
+        "10 Day Service*, Digital Print, One Location ",
         "3 Day Service, Digital Print, One Location "
+      ],
+      "Digital Label": [
+        "Additional colour/location",
+        "10 Days Service, Digital Label",
+        "3 Day service , Digital Label, One Location",
+        "3 Days Service, Digital Label",
+        "15 Days Service, Digital Label",
+        "24 Hours Service, Digital Label",
+        "10 Day Service, Digital Label, One Location",
+        "3 Day Service, Digital Label, One Location",
+        "10 Day service , Digital Label, One Location",
+        " 24 hr rush , Digital Label, One Location"
+      ],
+      "Screen / Pad Print": [
+        "Additional colour/location",
+        "15 Days Service, Screen / Pad Print"
+      ],
+      "Pad Print (One Colour Only)": [
+        "Additional Location ",
+        "3 Day Service, Pad Print (One Colour Only), One Colour/Location",
+        "10 Day Service, Pad Print (One Colour Only), One Colour/Location"
+      ],
+      "Sublimation Print": [
+        "Additional colour/location",
+        "18 Days Service, Sublimation Print",
+        "10 Days Service, Sublimation Print",
+        "15 Days Service, Sublimation Print",
+        "24 Hours Service, Sublimation Print",
+        "3 Days Service, Sublimation Print"
       ],
       "Screen Print (Front or Back)": [
         "Additional colour/location",
@@ -212,8 +213,8 @@
         "3 Day Service, Screen / Pad imprint, One Colour/Location",
         "10 Day Service*, Screen / Pad imprint, One Colour One Location",
         "24 Hr Rush**, Screen / Pad imprint, One Colour One Location",
-        "24 Hr Rush**, Screen / Pad imprint, One Colour/Location",
-        "10 Day Service*, Screen / Pad imprint, One Colour/Location"
+        "10 Day Service*, Screen / Pad imprint, One Colour/Location",
+        "24 Hr Rush**, Screen / Pad imprint, One Colour/Location"
       ],
       "Screen / Pad Imprint": [
         "Additional Colour/Location",
@@ -230,8 +231,8 @@
       "Wrap Screen Print": [
         "Additional colour/location",
         "10 Days Service, Wrap Screen Print",
-        "3 Days Service, Wrap Screen Print",
-        "24 Hours Service, Wrap Screen Print"
+        "24 Hours Service, Wrap Screen Print",
+        "3 Days Service, Wrap Screen Print"
       ],
       "Digital Transfer Print": [
         "Additional colour/location",
@@ -251,15 +252,17 @@
         "3 Days Service, Digital Transfer Print (Sleeve)",
         "24 Hours Service, Digital Transfer Print (Sleeve)"
       ],
+      "Pad print": [
+        "Additional colour/location",
+        "24 Hours Service, Pad print",
+        "3 Days Service, Pad print",
+        "10 Days Service, Pad print"
+      ],
       "Laser engraving (book)": [
         "Additional colour/location",
         "24 Hours Service, Laser engraving (book)",
-        "3 Days Service, Laser engraving (book)"
-      ],
-      "Pad print": [
-        "Additional colour/location",
-        "3 Days Service, Pad print",
-        "24 Hours Service, Pad print"
+        "3 Days Service, Laser engraving (book)",
+        "10 Days Service, Laser engraving (book)"
       ],
       "Digital Transfer Printing": [
         "Additional colour/location",
@@ -268,27 +271,21 @@
       "Epoxy Dome": [
         "Additional colour/location",
         "10 Days Service, Epoxy Dome",
-        "24 Hours Service, Epoxy Dome",
+        "15 Days Service, Epoxy Dome",
         "3 Days Service, Epoxy Dome",
-        "15 Days Service, Epoxy Dome"
+        "24 Hours Service, Epoxy Dome"
       ],
       "Pad Print ": [
         "Additional colour/location",
         "10 Days Service, Pad Print ",
-        "24 Hours Service, Pad Print ",
-        "3 Days Service, Pad Print "
+        "3 Days Service, Pad Print ",
+        "24 Hours Service, Pad Print "
       ],
       "Pad Print (Side)": [
         "Additional colour/location",
         "10 Days Service, Pad Print (Side)",
-        "24 Hours Service, Pad Print (Side)",
-        "3 Days Service, Pad Print (Side)"
-      ],
-      "Pad Print (Front and Back)": [
-        "Additional colour/location",
-        "10 Days Service, Pad Print (Front and Back)",
-        "24 Hours Service, Pad Print (Front and Back)",
-        "3 Days Service, Pad Print (Front and Back)"
+        "3 Days Service, Pad Print (Side)",
+        "24 Hours Service, Pad Print (Side)"
       ],
       "Pad Print (Front)": [
         "Additional colour/location",
@@ -296,24 +293,30 @@
         "3 Days Service, Pad Print (Front)",
         "24 Hours Service, Pad Print (Front)"
       ],
+      "Pad Print (Front and Back)": [
+        "Additional colour/location",
+        "10 Days Service, Pad Print (Front and Back)",
+        "24 Hours Service, Pad Print (Front and Back)",
+        "3 Days Service, Pad Print (Front and Back)"
+      ],
       "Screen Print (Both Paddles)": [
         "Additional colour/location",
         "10 Days Service, Screen Print (Both Paddles)",
-        "3 Days Service, Screen Print (Both Paddles)",
-        "24 Hours Service, Screen Print (Both Paddles)"
+        "24 Hours Service, Screen Print (Both Paddles)",
+        "3 Days Service, Screen Print (Both Paddles)"
       ],
       "Digital Transfer (Front)": [
         "Additional colour/location",
         "10 Days Service, Digital Transfer (Front)",
-        "24 Hours Service, Digital Transfer (Front)",
         "3 Days Service, Digital Transfer (Front)",
+        "24 Hours Service, Digital Transfer (Front)",
         "15 Days Service, Digital Transfer (Front)"
       ],
       "Engraving": [
         "Additional colour/location",
-        "24 Hours Service, Engraving",
+        "10 Days Service, Engraving",
         "3 Days Service, Engraving",
-        "10 Days Service, Engraving"
+        "24 Hours Service, Engraving"
       ],
       "Direct Digital Print (Large)": [
         "Additional colour/location",
@@ -327,49 +330,11 @@
         "10 Days Service, Digital Print (Pens)",
         "3 Days Service, Digital Print (Pens)"
       ],
-      "Pad Print (2+ Colours)": [
-        "Additional colour/location",
-        "3 Days Service, Pad Print (2+ Colours)",
-        "10 Days Service, Pad Print (2+ Colours)",
-        "24 Hours Service, Pad Print (2+ Colours)"
-      ],
-      "Digital Transfer (Inside Pocket)": [
-        "Additional colour/location",
-        "24 Hours Service, Digital Transfer (Inside Pocket)",
-        "3 Days Service, Digital Transfer (Inside Pocket)",
-        "10 Days Service, Digital Transfer (Inside Pocket)"
-      ],
-      "Digital Transfer (Back of Pocket)": [
-        "Additional colour/location",
-        "10 Days Service, Digital Transfer (Back of Pocket)",
-        "3 Days Service, Digital Transfer (Back of Pocket)",
-        "24 Hours Service, Digital Transfer (Back of Pocket)"
-      ],
-      "Pad Print (Single Colour)": [
-        "Additional colour/location",
-        "3 Days Service, Pad Print (Single Colour)",
-        "24 Hours Service, Pad Print (Single Colour)",
-        "10 Days Service, Pad Print (Single Colour)"
-      ],
       "Laser Engraving ": [
         "Additional colour/location",
         "10 Days Service, Laser Engraving ",
         "3 Days Service, Laser Engraving ",
         "24 Hours Service, Laser Engraving "
-      ],
-      "Digital Transfer (Back)": [
-        "Additional colour/location",
-        "24 Hours Service, Digital Transfer (Back)",
-        "10 Days Service, Digital Transfer (Back)",
-        "3 Days Service, Digital Transfer (Back)",
-        "15 Days Service, Digital Transfer (Back)"
-      ],
-      "Pad Print (Top)": [
-        "Additional colour/location",
-        "24 Hours Service, Pad Print (Top)",
-        "3 Days Service, Pad Print (Top)",
-        "10 Days Service, Pad Print (Top)",
-        "15 Days Service, Pad Print (Top)"
       ],
       "Direct Digital Print ": [
         "Additional colour/location",
@@ -382,11 +347,43 @@
         "35 Days Service, Embroidery",
         "25 Days Service, Embroidery"
       ],
-      "Laser Engrave (Wrap)": [
+      "Digital Transfer (Inside Pocket)": [
         "Additional colour/location",
-        "10 Days Service, Laser Engrave (Wrap)",
-        "3 Days Service, Laser Engrave (Wrap)",
-        "24 Hours Service, Laser Engrave (Wrap)"
+        "24 Hours Service, Digital Transfer (Inside Pocket)",
+        "10 Days Service, Digital Transfer (Inside Pocket)",
+        "3 Days Service, Digital Transfer (Inside Pocket)"
+      ],
+      "Digital Transfer (Back of Pocket)": [
+        "Additional colour/location",
+        "10 Days Service, Digital Transfer (Back of Pocket)",
+        "3 Days Service, Digital Transfer (Back of Pocket)",
+        "24 Hours Service, Digital Transfer (Back of Pocket)"
+      ],
+      "Digital Transfer (Back)": [
+        "Additional colour/location",
+        "10 Days Service, Digital Transfer (Back)",
+        "3 Days Service, Digital Transfer (Back)",
+        "24 Hours Service, Digital Transfer (Back)",
+        "15 Days Service, Digital Transfer (Back)"
+      ],
+      "Pad Print (Single Colour)": [
+        "Additional colour/location",
+        "3 Days Service, Pad Print (Single Colour)",
+        "24 Hours Service, Pad Print (Single Colour)",
+        "10 Days Service, Pad Print (Single Colour)"
+      ],
+      "Pad Print (2+ Colours)": [
+        "Additional colour/location",
+        "3 Days Service, Pad Print (2+ Colours)",
+        "10 Days Service, Pad Print (2+ Colours)",
+        "24 Hours Service, Pad Print (2+ Colours)"
+      ],
+      "Pad Print (Top)": [
+        "Additional colour/location",
+        "3 Days Service, Pad Print (Top)",
+        "24 Hours Service, Pad Print (Top)",
+        "10 Days Service, Pad Print (Top)",
+        "15 Days Service, Pad Print (Top)"
       ],
       "Digital Label (Box Only)": [
         "Additional colour/location",
@@ -394,23 +391,30 @@
         "10 Days Service, Digital Label (Box Only)",
         "24 Hours Service, Digital Label (Box Only)"
       ],
-      "Direct Digital (Bottom)": [
-        "Additional colour/location",
-        "10 Days Service, Direct Digital (Bottom)",
-        "3 Days Service, Direct Digital (Bottom)",
-        "24 Hours Service, Direct Digital (Bottom)"
-      ],
       "Direct Digital (Magsafe area)": [
         "Additional colour/location",
         "10 Days Service, Direct Digital (Magsafe area)",
         "3 Days Service, Direct Digital (Magsafe area)",
         "24 Hours Service, Direct Digital (Magsafe area)"
       ],
+      "Laser Engrave (Wrap)": [
+        "Additional colour/location",
+        "10 Days Service, Laser Engrave (Wrap)",
+        "3 Days Service, Laser Engrave (Wrap)",
+        "24 Hours Service, Laser Engrave (Wrap)"
+      ],
+      "Direct Digital (Bottom)": [
+        "Additional colour/location",
+        "10 Days Service, Direct Digital (Bottom)",
+        "3 Days Service, Direct Digital (Bottom)",
+        "24 Hours Service, Direct Digital (Bottom)"
+      ],
       "Direct Digital": [
         "Additional colour/location",
-        "24 Hours Service, Direct Digital",
+        "10 Days Service, Direct Digital",
         "3 Days Service, Direct Digital",
-        "10 Days Service, Direct Digital"
+        "24 Hours Service, Direct Digital",
+        "25 – 30 Days Service, Direct Digital"
       ],
       "Full Sublimation": [
         "Additional colour/location",
@@ -422,17 +426,17 @@
         "10 Days Service, 4 Colour Process (Magnet and Pad)",
         "24 Hours Service, 4 Colour Process (Magnet and Pad)"
       ],
+      "Screen Print ": [
+        "Additional colour/location",
+        "3 Days Service, Screen Print ",
+        "10 Days Service, Screen Print ",
+        "24 Hours Service, Screen Print "
+      ],
       "Additional attachment": [
         "Additional colour/location",
         "15 Days Service, Additional attachment",
         "20 Days Service, Additional attachment",
         "35 Days Service, Additional attachment"
-      ],
-      "Screen Print ": [
-        "Additional colour/location",
-        "24 Hours Service, Screen Print ",
-        "3 Days Service, Screen Print ",
-        "10 Days Service, Screen Print "
       ],
       "Foam Raised Imprint": [
         "Additional colour/location",
@@ -440,17 +444,17 @@
         "15 Days Service, Foam Raised Imprint",
         "35 Days Service, Foam Raised Imprint"
       ],
-      "Digital Transfer (Bag)": [
-        "Additional colour/location",
-        "10 Days Service, Digital Transfer (Bag)",
-        "24 Hours Service, Digital Transfer (Bag)",
-        "3 Days Service, Digital Transfer (Bag)"
-      ],
       "Glow in the Dark": [
         "Additional colour/location",
-        "15 Days Service, Glow in the Dark",
         "20 Days Service, Glow in the Dark",
+        "15 Days Service, Glow in the Dark",
         "35 Days Service, Glow in the Dark"
+      ],
+      "Digital Transfer (Bag)": [
+        "Additional colour/location",
+        "3 Days Service, Digital Transfer (Bag)",
+        "24 Hours Service, Digital Transfer (Bag)",
+        "10 Days Service, Digital Transfer (Bag)"
       ],
       "Heat Transfer": [
         "Additional colour/location",
@@ -458,23 +462,23 @@
       ],
       "Laser Engraving & Blacken": [
         "Additional colour/location",
-        "3 Days Service, Laser Engraving & Blacken",
-        "10 Days Service, Laser Engraving & Blacken",
         "15 Days Service, Laser Engraving & Blacken",
+        "10 Days Service, Laser Engraving & Blacken",
+        "3 Days Service, Laser Engraving & Blacken",
         "24 Hours Service, Laser Engraving & Blacken"
       ],
       "Variable Data Laser Engrave": [
         "Additional colour/location",
-        "3 Days Service, Variable Data Laser Engrave",
-        "10 Days Service, Variable Data Laser Engrave",
         "15 Days Service, Variable Data Laser Engrave",
+        "10 Days Service, Variable Data Laser Engrave",
+        "3 Days Service, Variable Data Laser Engrave",
         "24 Hours Service, Variable Data Laser Engrave"
       ],
       "Wrap Laser Engrave": [
         "Additional colour/location",
         "24 Hours Service, Wrap Laser Engrave",
-        "10 Days Service, Wrap Laser Engrave",
-        "3 Days Service, Wrap Laser Engrave"
+        "3 Days Service, Wrap Laser Engrave",
+        "10 Days Service, Wrap Laser Engrave"
       ],
       "Wrap Laser Engraving": [
         "Additional colour/location",
@@ -484,9 +488,9 @@
       ],
       "Laser Engraving &amp; Blacken": [
         "Additional colour/location",
-        "3 Days Service, Laser Engraving &amp; Blacken",
         "10 Days Service, Laser Engraving &amp; Blacken",
-        "24 Hours Service, Laser Engraving &amp; Blacken"
+        "24 Hours Service, Laser Engraving &amp; Blacken",
+        "3 Days Service, Laser Engraving &amp; Blacken"
       ],
       "Laser Engraving (per item)": [
         "Additional colour/location",
@@ -497,44 +501,44 @@
       "Laser Engraving &amp; Blacken (per item)": [
         "Additional colour/location",
         "10 Days Service, Laser Engraving &amp; Blacken (per item)",
-        "24 Hours Service, Laser Engraving &amp; Blacken (per item)",
-        "3 Days Service, Laser Engraving &amp; Blacken (per item)"
+        "3 Days Service, Laser Engraving &amp; Blacken (per item)",
+        "24 Hours Service, Laser Engraving &amp; Blacken (per item)"
       ],
       "Laser Engraving (Barrel)": [
         "Additional colour/location",
         "10 Days Service, Laser Engraving (Barrel)",
-        "24 Hours Service, Laser Engraving (Barrel)",
-        "3 Days Service, Laser Engraving (Barrel)"
+        "3 Days Service, Laser Engraving (Barrel)",
+        "24 Hours Service, Laser Engraving (Barrel)"
       ],
       "Digital Print (Sticker)": [
         "Additional colour/location",
-        "3 Days Service, Digital Print (Sticker)",
         "10 Days Service, Digital Print (Sticker)",
+        "3 Days Service, Digital Print (Sticker)",
         "24 Hours Service, Digital Print (Sticker)"
       ],
       "Laser Engraving & Blacken (per item)": [
         "Additional colour/location",
+        "10 Days Service, Laser Engraving & Blacken (per item)",
         "24 Hours Service, Laser Engraving & Blacken (per item)",
-        "3 Days Service, Laser Engraving & Blacken (per item)",
-        "10 Days Service, Laser Engraving & Blacken (per item)"
+        "3 Days Service, Laser Engraving & Blacken (per item)"
       ],
       "Digital Transfer (Apron Pocket)": [
         "Additional colour/location",
         "24 Hours Service, Digital Transfer (Apron Pocket)",
-        "10 Days Service, Digital Transfer (Apron Pocket)",
-        "3 Days Service, Digital Transfer (Apron Pocket)"
+        "3 Days Service, Digital Transfer (Apron Pocket)",
+        "10 Days Service, Digital Transfer (Apron Pocket)"
       ],
       "Digital Transfer (Above Apron Pocket)": [
         "Additional colour/location",
-        "24 Hours Service, Digital Transfer (Above Apron Pocket)",
         "10 Days Service, Digital Transfer (Above Apron Pocket)",
-        "3 Days Service, Digital Transfer (Above Apron Pocket)"
+        "3 Days Service, Digital Transfer (Above Apron Pocket)",
+        "24 Hours Service, Digital Transfer (Above Apron Pocket)"
       ],
       "Laser Enrgaving": [
         "Additional colour/location",
         "10 Days Service, Laser Enrgaving",
-        "24 Hours Service, Laser Enrgaving",
-        "3 Days Service, Laser Enrgaving"
+        "3 Days Service, Laser Enrgaving",
+        "24 Hours Service, Laser Enrgaving"
       ],
       "Black Cylinder Gift Box": [
         "Additional colour/location",
@@ -543,9 +547,9 @@
       "Metallic Transfer ": [
         "Additional colour/location",
         "10 Days Service, Metallic Transfer ",
-        "3 Days Service, Metallic Transfer ",
         "24 Hours Service, Metallic Transfer ",
-        "15 Days Service, Metallic Transfer "
+        "15 Days Service, Metallic Transfer ",
+        "3 Days Service, Metallic Transfer "
       ],
       "Paper Sleeve Card": [
         "Additional colour/location",
@@ -560,14 +564,14 @@
       "Large Laser Engrave": [
         "Additional colour/location",
         "24 Hours Service, Large Laser Engrave",
-        "10 Days Service, Large Laser Engrave",
-        "3 Days Service, Large Laser Engrave"
+        "3 Days Service, Large Laser Engrave",
+        "10 Days Service, Large Laser Engrave"
       ],
       "Rotary Digital Print": [
         "Additional colour/location",
-        "10 Days Service, Rotary Digital Print",
         "24 Hours Service, Rotary Digital Print",
-        "3 Days Service, Rotary Digital Print"
+        "3 Days Service, Rotary Digital Print",
+        "10 Days Service, Rotary Digital Print"
       ],
       "Laser Engraving (Standard)": [
         "Additional colour/location",
@@ -578,8 +582,8 @@
       "Wrap Laser Engrave (Large)": [
         "Additional colour/location",
         "3 Days Service, Wrap Laser Engrave (Large)",
-        "24 Hours Service, Wrap Laser Engrave (Large)",
-        "10 Days Service, Wrap Laser Engrave (Large)"
+        "10 Days Service, Wrap Laser Engrave (Large)",
+        "24 Hours Service, Wrap Laser Engrave (Large)"
       ],
       "Pad Print (Lid)": [
         "Additional colour/location",
@@ -611,10 +615,10 @@
       ],
       "Direct Digital Print (Pen)": [
         "Additional colour/location",
-        "24 Hours Service, Direct Digital Print (Pen)",
+        "10 Days Service, Direct Digital Print (Pen)",
         "15 Days Service, Direct Digital Print (Pen)",
-        "3 Days Service, Direct Digital Print (Pen)",
-        "10 Days Service, Direct Digital Print (Pen)"
+        "24 Hours Service, Direct Digital Print (Pen)",
+        "3 Days Service, Direct Digital Print (Pen)"
       ],
       "Mirror Laser Engrave": [
         "Additional colour/location",
@@ -631,14 +635,14 @@
       "Laser Engraving Wrap": [
         "Additional colour/location",
         "3 Days Service, Laser Engraving Wrap",
-        "10 Days Service, Laser Engraving Wrap",
-        "24 Hours Service, Laser Engraving Wrap"
+        "24 Hours Service, Laser Engraving Wrap",
+        "10 Days Service, Laser Engraving Wrap"
       ],
       "Laser Engrave (Large)": [
         "Additional colour/location",
-        "24 Hours Service, Laser Engrave (Large)",
         "3 Days Service, Laser Engrave (Large)",
-        "10 Days Service, Laser Engrave (Large)"
+        "10 Days Service, Laser Engrave (Large)",
+        "24 Hours Service, Laser Engrave (Large)"
       ],
       "Pad Print (Pen)": [
         "Additional colour/location",
@@ -661,33 +665,33 @@
       ],
       "Pad Print (Pens)": [
         "Additional colour/location",
-        "10 Days Service, Pad Print (Pens)",
+        "3 Days Service, Pad Print (Pens)",
         "24 Hours Service, Pad Print (Pens)",
-        "3 Days Service, Pad Print (Pens)"
+        "10 Days Service, Pad Print (Pens)"
       ],
       "Laser Engraving (Pens)": [
         "Additional colour/location",
+        "3 Days Service, Laser Engraving (Pens)",
         "24 Hours Service, Laser Engraving (Pens)",
-        "10 Days Service, Laser Engraving (Pens)",
-        "3 Days Service, Laser Engraving (Pens)"
+        "10 Days Service, Laser Engraving (Pens)"
       ],
       "Digital Print (Box)": [
         "Additional colour/location",
-        "3 Days Service, Digital Print (Box)",
         "24 Hours Service, Digital Print (Box)",
+        "3 Days Service, Digital Print (Box)",
         "10 Days Service, Digital Print (Box)"
       ],
       "Pad Print (Case)": [
         "Additional colour/location",
-        "24 Hours Service, Pad Print (Case)",
+        "10 Days Service, Pad Print (Case)",
         "3 Days Service, Pad Print (Case)",
-        "10 Days Service, Pad Print (Case)"
+        "24 Hours Service, Pad Print (Case)"
       ],
       "Direct Digital Print (Case)": [
         "Additional colour/location",
-        "24 Hours Service, Direct Digital Print (Case)",
+        "10 Days Service, Direct Digital Print (Case)",
         "3 Days Service, Direct Digital Print (Case)",
-        "10 Days Service, Direct Digital Print (Case)"
+        "24 Hours Service, Direct Digital Print (Case)"
       ],
       "Pad Print (Back)": [
         "Additional colour/location",
@@ -697,8 +701,8 @@
       ],
       "Laser Wrap Engraving": [
         "Additional colour/location",
-        "10 Days Service, Laser Wrap Engraving",
         "24 Hours Service, Laser Wrap Engraving",
+        "10 Days Service, Laser Wrap Engraving",
         "3 Days Service, Laser Wrap Engraving"
       ],
       "Digital Sticker": [
@@ -709,35 +713,35 @@
       ],
       "Pad Print (Side 2)": [
         "Additional colour/location",
-        "10 Days Service, Pad Print (Side 2)",
         "3 Days Service, Pad Print (Side 2)",
-        "24 Hours Service, Pad Print (Side 2)"
+        "24 Hours Service, Pad Print (Side 2)",
+        "10 Days Service, Pad Print (Side 2)"
       ],
       "Laser Engrave (Pen)": [
         "Additional colour/location",
-        "3 Days Service, Laser Engrave (Pen)",
         "10 Days Service, Laser Engrave (Pen)",
+        "24 Hours Service, Laser Engrave (Pen)",
         "15 Days Service, Laser Engrave (Pen)",
-        "24 Hours Service, Laser Engrave (Pen)"
+        "3 Days Service, Laser Engrave (Pen)"
       ],
       "Direct Digital Print (Top)": [
         "Additional colour/location",
-        "24 Hours Service, Direct Digital Print (Top)",
-        "15 Days Service, Direct Digital Print (Top)",
+        "10 Days Service, Direct Digital Print (Top)",
         "3 Days Service, Direct Digital Print (Top)",
-        "10 Days Service, Direct Digital Print (Top)"
+        "24 Hours Service, Direct Digital Print (Top)",
+        "15 Days Service, Direct Digital Print (Top)"
       ],
       "Metallic Transfer": [
         "Additional colour/location",
+        "10 Days Service, Metallic Transfer",
         "3 Days Service, Metallic Transfer",
-        "24 Hours Service, Metallic Transfer",
         "15 Days Service, Metallic Transfer",
-        "10 Days Service, Metallic Transfer"
+        "24 Hours Service, Metallic Transfer"
       ],
       "Pad Print (Purple and Red Only)": [
         "Additional colour/location",
-        "3 Days Service, Pad Print (Purple and Red Only)",
         "10 Days Service, Pad Print (Purple and Red Only)",
+        "3 Days Service, Pad Print (Purple and Red Only)",
         "24 Hours Service, Pad Print (Purple and Red Only)"
       ],
       "Digital Direct Print ": [
@@ -754,15 +758,15 @@
       ],
       "Screen Wrap": [
         "Additional colour/location",
-        "24 Hours Service, Screen Wrap",
+        "10 Days Service, Screen Wrap",
         "3 Days Service, Screen Wrap",
-        "10 Days Service, Screen Wrap"
+        "24 Hours Service, Screen Wrap"
       ],
       "Pad Print (Magsafe area)": [
         "Additional colour/location",
         "10 Days Service, Pad Print (Magsafe area)",
-        "24 Hours Service, Pad Print (Magsafe area)",
-        "3 Days Service, Pad Print (Magsafe area)"
+        "3 Days Service, Pad Print (Magsafe area)",
+        "24 Hours Service, Pad Print (Magsafe area)"
       ],
       "Pad Print (Bottom)": [
         "Additional colour/location",
@@ -772,26 +776,26 @@
       ],
       "Screen Print (Wrap)": [
         "Additional colour/location",
-        "10 Days Service, Screen Print (Wrap)",
         "3 Days Service, Screen Print (Wrap)",
+        "10 Days Service, Screen Print (Wrap)",
         "24 Hours Service, Screen Print (Wrap)"
       ],
       "Screen Printing (Front)": [
         "Additional colour/location",
-        "10 Days Service, Screen Printing (Front)",
         "3 Days Service, Screen Printing (Front)",
+        "10 Days Service, Screen Printing (Front)",
         "24 Hours Service, Screen Printing (Front)"
       ],
       "Screen Printing (Back)": [
         "Additional colour/location",
-        "24 Hours Service, Screen Printing (Back)",
         "3 Days Service, Screen Printing (Back)",
+        "24 Hours Service, Screen Printing (Back)",
         "10 Days Service, Screen Printing (Back)"
       ],
       "Digital Printing (Front)": [
         "Additional colour/location",
-        "3 Days Service, Digital Printing (Front)",
         "10 Days Service, Digital Printing (Front)",
+        "3 Days Service, Digital Printing (Front)",
         "24 Hours Service, Digital Printing (Front)"
       ],
       "Digital Printing (Back)": [
@@ -800,23 +804,23 @@
         "24 Hours Service, Digital Printing (Back)",
         "10 Days Service, Digital Printing (Back)"
       ],
+      "Screen Print (Lid Top)": [
+        "Additional colour/location",
+        "24 Hours Service, Screen Print (Lid Top)",
+        "10 Days Service, Screen Print (Lid Top)",
+        "3 Days Service, Screen Print (Lid Top)"
+      ],
       "Laser Engrave (Lid Top)": [
         "Additional colour/location",
         "24 Hours Service, Laser Engrave (Lid Top)",
         "3 Days Service, Laser Engrave (Lid Top)",
         "10 Days Service, Laser Engrave (Lid Top)"
       ],
-      "Screen Print (Lid Top)": [
-        "Additional colour/location",
-        "3 Days Service, Screen Print (Lid Top)",
-        "10 Days Service, Screen Print (Lid Top)",
-        "24 Hours Service, Screen Print (Lid Top)"
-      ],
       "Screen Print (Lid Bottom)": [
         "Additional colour/location",
-        "24 Hours Service, Screen Print (Lid Bottom)",
+        "10 Days Service, Screen Print (Lid Bottom)",
         "3 Days Service, Screen Print (Lid Bottom)",
-        "10 Days Service, Screen Print (Lid Bottom)"
+        "24 Hours Service, Screen Print (Lid Bottom)"
       ],
       "Laser Engrave (Lid Bottom)": [
         "Additional colour/location",
@@ -832,8 +836,8 @@
       ],
       "Direct Digital (Top)": [
         "Additional colour/location",
-        "24 Hours Service, Direct Digital (Top)",
         "10 Days Service, Direct Digital (Top)",
+        "24 Hours Service, Direct Digital (Top)",
         "3 Days Service, Direct Digital (Top)"
       ],
       "Pad Print (Sides)": [
@@ -874,8 +878,8 @@
       ],
       "Laser Engrave &amp; Blacken": [
         "Additional colour/location",
-        "24 Hours Service, Laser Engrave &amp; Blacken",
         "3 Days Service, Laser Engrave &amp; Blacken",
+        "24 Hours Service, Laser Engrave &amp; Blacken",
         "10 Days Service, Laser Engrave &amp; Blacken"
       ],
       "Laser Engrave and Blacken": [
@@ -893,10 +897,10 @@
         "Additional Colour/Location",
         "3 Day Service, Pad Print / Laser Engrave, One Colour One Location",
         "3 Day Service, Pad Print / Laser Engrave, One Colour/Location ",
-        "10 Day Service*, Pad Print / Laser Engrave, One Colour One Location",
         "24 Hr Rush**, Pad Print / Laser Engrave, One Colour One Location",
-        "24 Hr Rush**, Pad Print / Laser Engrave, One Colour/Location ",
-        "10 Day Service*, Pad Print / Laser Engrave, One Colour/Location "
+        "10 Day Service*, Pad Print / Laser Engrave, One Colour One Location",
+        "10 Day Service*, Pad Print / Laser Engrave, One Colour/Location ",
+        "24 Hr Rush**, Pad Print / Laser Engrave, One Colour/Location "
       ],
       "Laser Engracing": [
         "Additional colour/location",
@@ -934,6 +938,133 @@
         "3 Days Service, Transfer",
         "24 Hours Service, Transfer"
       ],
+      "Custom shape sticker": [
+        "Additional colour/location",
+        "10 Days Service, Custom shape sticker",
+        "24 Hours Service, Custom shape sticker",
+        "3 Days Service, Custom shape sticker"
+      ],
+      "Screen Print (Bag)": [
+        "Additional colour/location",
+        "10 Days Service, Screen Print (Bag)",
+        "3 Days Service, Screen Print (Bag)",
+        "24 Hours Service, Screen Print (Bag)"
+      ],
+      "Metallic Transfer (250pcs min.)": [
+        "Additional colour/location",
+        "10 Days Service, Metallic Transfer (250pcs min.)",
+        "3 Days Service, Metallic Transfer (250pcs min.)",
+        "24 Hours Service, Metallic Transfer (250pcs min.)",
+        "15 Days Service, Metallic Transfer (250pcs min.)"
+      ],
+      "Pad print (Pen) Max 3 Colours": [
+        "Additional colour/location",
+        "24 Hours Service, Pad print (Pen) Max 3 Colours",
+        "10 Days Service, Pad print (Pen) Max 3 Colours",
+        "3 Days Service, Pad print (Pen) Max 3 Colours"
+      ],
+      "Laser engraving (Pen)": [
+        "Additional colour/location",
+        "3 Days Service, Laser engraving (Pen)",
+        "10 Days Service, Laser engraving (Pen)",
+        "24 Hours Service, Laser engraving (Pen)"
+      ],
+      "Pad Print (Front or Back)": [
+        "Additional colour/location",
+        "10 Days Service, Pad Print (Front or Back)",
+        "3 Days Service, Pad Print (Front or Back)",
+        "24 Hours Service, Pad Print (Front or Back)"
+      ],
+      "Digital Transfer (Front Pocket)": [
+        "Additional colour/location",
+        "10 Days Service, Digital Transfer (Front Pocket)",
+        "3 Days Service, Digital Transfer (Front Pocket)",
+        "24 Hours Service, Digital Transfer (Front Pocket)"
+      ],
+      "Digital Transfer (Lid)": [
+        "Additional colour/location",
+        "10 Days Service, Digital Transfer (Lid)",
+        "3 Days Service, Digital Transfer (Lid)",
+        "24 Hours Service, Digital Transfer (Lid)"
+      ],
+      "Small Laser Engrave": [
+        "Additional colour/location",
+        "24 Hours Service, Small Laser Engrave",
+        "3 Days Service, Small Laser Engrave",
+        "10 Days Service, Small Laser Engrave"
+      ],
+      "Medium Laser Engrave": [
+        "Additional colour/location",
+        "24 Hours Service, Medium Laser Engrave",
+        "3 Days Service, Medium Laser Engrave",
+        "10 Days Service, Medium Laser Engrave"
+      ],
+      "Digital Transfer (Front Or Back) ": [
+        "Additional colour/location",
+        "10 Days Service, Digital Transfer (Front Or Back) ",
+        "3 Days Service, Digital Transfer (Front Or Back) ",
+        "24 Hours Service, Digital Transfer (Front Or Back) "
+      ],
+      "Digital Transfer (Side Gusset) ": [
+        "Additional colour/location",
+        "10 Days Service, Digital Transfer (Side Gusset) ",
+        "3 Days Service, Digital Transfer (Side Gusset) ",
+        "24 Hours Service, Digital Transfer (Side Gusset) "
+      ],
+      "Pad Print (Base)": [
+        "Additional colour/location",
+        "24 Hours Service, Pad Print (Base)",
+        "3 Days Service, Pad Print (Base)",
+        "10 Days Service, Pad Print (Base)"
+      ],
+      "Pad Print (Fan)": [
+        "Additional colour/location",
+        "10 Days Service, Pad Print (Fan)",
+        "3 Days Service, Pad Print (Fan)",
+        "24 Hours Service, Pad Print (Fan)"
+      ],
+      "Sticker": [
+        "Additional colour/location",
+        "10 Days Service, Sticker",
+        "3 Days Service, Sticker",
+        "24 Hours Service, Sticker"
+      ],
+      "Digital Transfer (Front - Bottom)": [
+        "Additional colour/location",
+        "24 Hours Service, Digital Transfer (Front - Bottom)",
+        "3 Days Service, Digital Transfer (Front - Bottom)",
+        "10 Days Service, Digital Transfer (Front - Bottom)"
+      ],
+      "Digital Transfer (Back - Bottom)": [
+        "Additional colour/location",
+        "24 Hours Service, Digital Transfer (Back - Bottom)",
+        "3 Days Service, Digital Transfer (Back - Bottom)",
+        "10 Days Service, Digital Transfer (Back - Bottom)"
+      ],
+      "Laser Engrave (Front)": [
+        "Additional colour/location",
+        "10 Days Service, Laser Engrave (Front)",
+        "3 Days Service, Laser Engrave (Front)",
+        "24 Hours Service, Laser Engrave (Front)"
+      ],
+      "Laser Engrave (Back)": [
+        "Additional colour/location",
+        "10 Days Service, Laser Engrave (Back)",
+        "3 Days Service, Laser Engrave (Back)",
+        "24 Hours Service, Laser Engrave (Back)"
+      ],
+      "Laser": [
+        "Additional colour/location",
+        "10 Days Service, Laser",
+        "3 Days Service, Laser",
+        "24 Hours Service, Laser"
+      ],
+      "Direct Digital ": [
+        "Additional colour/location",
+        "10 Days Service, Direct Digital ",
+        "3 Days Service, Direct Digital ",
+        "24 Hours Service, Direct Digital "
+      ],
       "Undecorated": [
         "Unbranded",
         "Undecorated"
@@ -941,44 +1072,23 @@
       "Mirror Laser": [
         "16 Day production , Mirror Laser, One Location"
       ],
-      "Custom shape sticker": [
-        "10 Days Service, Custom shape sticker",
-        "3 Days Service, Custom shape sticker",
-        "24 Hours Service, Custom shape sticker"
-      ],
       "Variable Data": [
         "24 Hr Rush**, Variable Data, One Location",
         "10 Day Service*, Variable Data, One Location",
         "3 Day Service, Variable Data, One Location",
-        "10 Day service , Variable Data, One Location",
-        "16 Day production , Variable Data, One Location",
+        "10 Day Service, Variable Data, One Location",
         "3 Day service , Variable Data, One Location",
+        "10 Day service , Variable Data, One Location",
         " 24 hr rush , Variable Data, One Location",
-        "10 Day Service, Variable Data, One Location"
-      ],
-      "Laser engraving (Pen)": [
-        "3 Days Service, Laser engraving (Pen)",
-        "10 Days Service, Laser engraving (Pen)",
-        "24 Hours Service, Laser engraving (Pen)"
-      ],
-      "Pad print (Pen) Max 3 Colours": [
-        "3 Days Service, Pad print (Pen) Max 3 Colours",
-        "10 Days Service, Pad print (Pen) Max 3 Colours",
-        "24 Hours Service, Pad print (Pen) Max 3 Colours"
-      ],
-      "Mimaki": [
-        "10 Day Service*, Mimaki, One Location",
-        "24 Hr Rush**, Mimaki, One Location",
-        "3 Day Service, Mimaki, One Location"
-      ],
-      "Metallic Transfer (250pcs min.)": [
-        "15 Days Service, Metallic Transfer (250pcs min.)",
-        "24 Hours Service, Metallic Transfer (250pcs min.)",
-        "10 Days Service, Metallic Transfer (250pcs min.)",
-        "3 Days Service, Metallic Transfer (250pcs min.)"
+        "16 Day production , Variable Data, One Location"
       ],
       "Silk Screen": [
         "16 Day production , Silk Screen, One Colour/Location Standard Cenatron offset box"
+      ],
+      "Mimaki": [
+        "3 Day Service, Mimaki, One Location",
+        "10 Day Service*, Mimaki, One Location",
+        "24 Hr Rush**, Mimaki, One Location"
       ]
     }
   }

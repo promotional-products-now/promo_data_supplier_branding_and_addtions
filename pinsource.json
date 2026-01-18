@@ -3,13 +3,13 @@
     "supplierName": "Pinsource",
     "supplierId": "29",
     "type": {
-      "Enamel Infill|Pad Printing|Epoxy|Laser Engraving": [
-        "Decorated"
-      ],
       "None": [
         "Decorated"
       ],
       "any decoration available": [
+        "Decorated"
+      ],
+      "Enamel Infill|Pad Printing|Epoxy|Laser Engraving": [
         "Decorated"
       ]
     }

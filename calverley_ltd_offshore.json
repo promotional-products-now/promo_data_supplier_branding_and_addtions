@@ -2,6 +2,49 @@
   {
     "supplierName": "Calverley Ltd (Offshore)",
     "supplierId": "150",
-    "type": {}
+    "type": {
+      "Digital Print": [
+        "Logo Print + Regular Packaging with Custom Sleeve 26x26mm",
+        "Logo Print + Gift Box with Ribbon 26x26mm",
+        "Logo Print + Gift Box with Ribbon and Gift Tag 26x26mm",
+        "Logo Print + 100% custom printed packaging 26x26mm",
+        "Logo Print + Regular Packaging with Custom Sleeve 35x35mm",
+        "Logo Print + Gift Box with Ribbon 35x35mm",
+        "Logo Print + Gift Box with Ribbon and Gift Tag 35x35mm",
+        "Logo Print + 100% custom printed packaging 35x35mm",
+        "Logo Print + Gift Box with Ribbon 51x32mm",
+        "Logo Print + Regular Packaging with Custom Sleeve 51x32mm",
+        "Logo Print + Gift Box with Ribbon and Gift Tag 51x32mm",
+        "Logo Print + 100% custom printed packaging 51x32mm",
+        "Logo Print + Regular Packaging with Custom Sleeve 85x53mm, 35x35mm and 26x26mm",
+        "Logo Print + Gift Box with Ribbon 85x53mm, 35x35mm and 26x26mm",
+        "Logo Print + Gift Box with Ribbon and Gift Tag 85x53mm, 35x35mm and 26x26mm",
+        "Logo Print + 100% custom printed packaging 85x53mm, 35x35mm and 26x26mm",
+        "Logo Print + Regular Packaging with Custom Sleeve 85x53mm",
+        "Logo Print + Gift Box with Ribbon 85x53mm",
+        "Logo Print + Gift Box with Ribbon and Gift Tag 85x53mm",
+        "Logo Print + 100% custom printed packaging 85x53mm",
+        "Logo Print + Regular Packaging with Custom Sleeve 85x53mm, 51x32mm and 26x26mm",
+        "Logo Print + Gift Box with Ribbon 85x53mm, 51x32mm and 26x26mm",
+        "Logo Print + Gift Box with Ribbon and Gift Tag 85x53mm, 51x32mm and 26x26mm",
+        "Logo Print + 100% custom printed packaging 85x53mm, 51x32mm and 26x26mm",
+        "Logo Print + Regular Packaging with Custom Sleeve 85x53mm and 35x35mm",
+        "Logo Print + Gift Box with Ribbon 85x53mm and 35x35mm",
+        "Logo Print + Gift Box with Ribbon and Gift Tag 85x53mm and 35x35mm",
+        "Logo Print + 100% custom printed packaging 85x53mm and 35x35mm",
+        "Logo Print + Regular Packaging with Custom Sleeve 85x53mm and 51x32mm",
+        "Logo Print + 100% custom printed packaging 85x53mm and 51x32mm",
+        "Logo Print + Gift Box with Ribbon 85x53mm and 51x32mm",
+        "Logo Print + Gift Box with Ribbon and Gift Tag 85x53mm and 51x32mm",
+        "Logo Print + Regular Packaging 35x35mm",
+        "Logo Print + Regular Packaging 51x32mm",
+        "Logo Print + Regular Packaging 26x26mm",
+        "Logo Print + Regular Packaging 85x53mm, 35x35mm and 26x26mm",
+        "Logo Print + Regular Packaging 85x53mm",
+        "Logo Print + Regular Packaging 85x53mm, 51x32mm and 26x26mm",
+        "Logo Print + Regular Packaging 85x53mm and 35x35mm",
+        "Logo Print + Regular Packaging 85x53mm and 51x32mm"
+      ]
+    }
   }
 ]

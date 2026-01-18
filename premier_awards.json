@@ -12,14 +12,17 @@
       "Full Colour Printed Plate": [
         "Full Colour Printed Plate"
       ],
-      "Quality Laser Etching (No Colour)": [
-        "Quality Laser Etching (No Colour)"
-      ],
       "Laser Engraving (1 Colour - Natural Burnt)": [
         "Laser Engraving (1 Colour - Natural Burnt)"
       ],
+      "Quality Laser Etching (No Colour)": [
+        "Quality Laser Etching (No Colour)"
+      ],
       "Engraving (No Colour)": [
         "Engraving (No Colour)"
+      ],
+      "Laser Engraving & Full Colour Print": [
+        "Laser Engraving & Full Colour Print"
       ]
     }
   }

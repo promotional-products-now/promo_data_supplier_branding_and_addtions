@@ -7,9 +7,11 @@
         "All Sizes",
         "Undecorated",
         "Sizes 1XL, 2XL, 3XL, L, M, S",
-        "Sizes 5XL, 7XL",
+        "Sizes 4XL, 5XL",
         "Sizes 4XL, 5XL, 7XL",
-        "Sizes 4XL, 5XL"
+        "Sizes 5XL, 7XL",
+        "Sizes 1XL, 2XL, 3XL, 5XL, L, M, S, XS",
+        "Sizes 02K, 04K, 06K, 08K, 10K, 12K, 14K"
       ]
     }
   }

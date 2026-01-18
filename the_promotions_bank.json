@@ -3,39 +3,19 @@
     "supplierName": "The Promotions Bank",
     "supplierId": "51",
     "type": {
-      "Digital print": [
-        "Full colour digital print on white side ",
-        "Full colour print on 1 side ",
-        "Full colour digital print on 1 side ",
-        "Full colour print on 1 side and on pouch "
-      ],
-      "Screen Print": [
-        "additional print colour per side ",
-        "additional 1 colour 1 side ",
-        "additional print colour ",
-        "add additional print colour ",
-        "1 colour print on 1 position ",
-        "1 colour print on 1 side ",
-        "1 color print on 1 position "
-      ],
       "Screen print": [
         "additional print colour ",
         "additional print per position ",
         "1 colour 1 position print on rib ",
         "1 colour screen print on 1 side ",
         "additional print colour on sunshade and on pouch ",
+        "1 colour print on flyer and on outisde of pouch ",
         "1 colour print on 1 position ",
         "1 colour print on both arms ",
-        "1 colour print on flyer and on outisde of pouch ",
         "1 colour priint on 1 position ",
         "1 colour print on 1 side ",
         "1 colour print on 1 position on each item ( same print colour and print size ) ",
         "1 colour print on 1 side of sunshade and pouch "
-      ],
-      "screen print": [
-        "additional print colour per side ",
-        "additional 1 colour 1 side ",
-        "1 colour print on 1 side "
       ],
       "sublimation print": [
         "add full colour print on other side ",
@@ -43,50 +23,71 @@
         "Full colour sublimation print on 1 side and on pouch ",
         "sublimation print ",
         "full color print on 1 side of fan ",
+        "full colour print on both sides ",
         "full colour print on 1 side of flyer and on outside of pouch ",
-        "full colour print on pocket ",
-        "full colour print on both sides "
+        "full colour print on pocket "
       ],
-      "pad print": [
-        "1 colour 1 position print on pen clip ",
-        "1 colour print on 1 side ",
-        "1 colour 1 position print on pen barrel ",
-        "2 colour print on 1 side ",
+      "Screen Print": [
+        "additional 1 colour 1 side ",
         "additional print colour ",
-        "1 colour print on both sides "
+        "additional print colour per side ",
+        "add additional print colour ",
+        "1 colour print on 1 side ",
+        "1 color print on 1 position ",
+        "1 colour print on 1 position "
       ],
       "Copper plate press printing": [
         "additional print colour ",
-        "1 colour print on both sides ( same print colour on both sides ) "
+        "1 colour print on both sides ( same print colour on both sides ) ",
+        "1 colour print on both sides ( same print colours on both sides ) "
+      ],
+      "pad print": [
+        "2 colour print on 1 side ",
+        "1 colour print on 1 side ",
+        "1 colour 1 position print on pen clip ",
+        "1 colour 1 position print on pen barrel ",
+        "additional print colour ",
+        "1 colour print on both sides "
+      ],
+      "Digital print": [
+        "Full colour digital print on white side ",
+        "Full colour print on 1 side ",
+        "Full colour digital print on 1 side ",
+        "Full colour print on 1 side and on pouch "
+      ],
+      "screen print": [
+        "additional print colour per side ",
+        "additional 1 colour 1 side ",
+        "1 colour print on 1 side "
       ],
       "pad printing": [
         "1 colour print on 4 sections (  1 colour print on 2 sections and different 1 colour print on 2 other sections ) ",
         "1 colour print on 4 sections. ",
         "1 colour print on 4 sections ( same print colour ) "
       ],
-      "Heat transfer": [
-        "2 or more colour print on 1 position ",
-        "full colour print on both sides of collar ",
-        "full colour print on both sides of banner "
-      ],
       "digital print": [
         "full colour print on 1 side "
       ],
+      "Heat transfer": [
+        "2 or more colour print on 1 position ",
+        "full colour print on both sides of banner ",
+        "full colour print on both sides of collar "
+      ],
       "offset printing": [
+        "Full colour printing on all surfaces ",
         "Full colour print on all surfaces ",
         "full colour print on 1 side of fan ",
-        "Full colour print on all 6 sides ",
-        "Full colour printing on all surfaces ",
-        "full colour print on both sides of fan flap ",
         "full colour print on both sides ",
-        "CMYK printing ",
         "full colour print on 1 side ",
+        "CMYK printing ",
+        "Full colour print on all 6 sides ",
         "Full colour print on all surfaces. ",
-        "Full colour print on outside of pen pot, matte lamination. ",
-        "Full colour print on outside of pen holder. ",
+        "full colour print on both sides of fan flap ",
         "Full colour print on both sides of stand, matte lamination. ",
-        "full colour custom printing on both sides of playing card and outside of box ",
+        "Full colour print on outside of pen holder. ",
+        "Full colour print on outside of pen pot, matte lamination. ",
         "full colour print on both sides of fan' ",
+        "full colour custom printing on both sides of playing card and outside of box ",
         "full colour custom printing on both sides of playing card. ",
         "Full colour print on outside of cube and envelope. ",
         "Full colour print on all sides of blocks ",
