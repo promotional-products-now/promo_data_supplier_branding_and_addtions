@@ -6,56 +6,63 @@
       "Embroidered": [
         "Embroidered"
       ],
-      "Embroidery": [
-        "Embroidery"
-      ],
       "Unbranded": [
         "Unimprinted"
       ],
+      "Embroidery": [
+        "Embroidery"
+      ],
       "3D Moulded": [
         "Die Cast",
+        "Die-cast",
         "3D Die Cast Lapel Pins",
         "3D Moulded",
-        "Die-cast",
         "Die struck"
+      ],
+      "2D Moulded": [
+        "Die Struck",
+        "2D Moulded",
+        "Die-struck",
+        "Die-struck Brass Soft Enamel Pins",
+        "Die-struck Economy Soft Enamel Pins",
+        "Die-cast",
+        "Die struck",
+        "Die Stuck",
+        "Die Cast",
+        "Etched"
+      ],
+      "Digital Print": [
+        "Digital Print",
+        "Full colour",
+        "Stock Shape UV Printed Pins",
+        "UV Printed",
+        "Stock Shape UV Printed Trading Pins",
+        "Printed",
+        "UV Printing",
+        "UV Full colour",
+        "UV Full colour Print",
+        "UV Print",
+        "Sticker;UV Full colour;screen print"
       ],
       "Embossed": [
         "Embossed"
       ],
       "Direct Print": [
-        "Printed",
-        "Imprinted"
-      ],
-      "2D Moulded": [
-        "Die Struck",
-        "Die Stuck",
-        "2D Moulded",
-        "Die-struck",
-        "Die-struck Brass Soft Enamel Pins",
-        "Die-struck Economy Soft Enamel Pins",
-        "Die struck",
-        "Die Cast",
-        "Die-cast",
-        "Etched"
+        "Imprinted",
+        "Printed"
       ],
       "Screen Print": [
         "Screen Print",
-        "screen print",
         "Silkscreen",
-        "Silk Screen"
+        "Silk Screen",
+        "screen print"
       ],
-      "Digital Print": [
-        "Digital Print",
-        "Printed",
-        "Stock Shape UV Printed Trading Pins",
-        "Stock Shape UV Printed Pins",
-        "Full colour",
-        "UV Printed",
-        "UV Full colour",
-        "UV Print",
+      "UV Printing": [
         "UV Printing",
-        "Sticker;UV Full colour;screen print",
-        "UV Full colour Print"
+        "UV Full colour"
+      ],
+      "Offset Print": [
+        "Offset Print"
       ],
       "Laser Engrave": [
         "Laser engraved",
@@ -65,13 +72,32 @@
         "Silkscreen, Laser Engraved, UV Full Color, Epoxy+Sticker",
         "Laser Engrave"
       ],
+      "Pad Print": [
+        "Pad Print"
+      ],
+      "Silk Screen": [
+        "Silk Screen",
+        "Debossed"
+      ],
+      "Pad printed": [
+        "Pad printed"
+      ],
+      "Sublimated": [
+        "Dye Sublimated"
+      ],
+      "UV Printed": [
+        "UV Printed"
+      ],
+      "Embossing": [
+        "Embossed"
+      ],
+      "Debossed": [
+        "Debossed"
+      ],
       "Sublimation": [
         "Sublimation",
         "Dye Sublimated",
         "Full Colour Digital"
-      ],
-      "Pad Print": [
-        "Pad Print"
       ],
       "Heat transfer": [
         "Heat transfer",
@@ -80,49 +106,23 @@
       "Printed": [
         "Printed"
       ],
-      "UV Printing": [
-        "UV Printing",
-        "UV Full colour"
-      ],
-      "Silk Screen": [
-        "Silk Screen",
-        "Debossed"
-      ],
-      "Debossed": [
-        "Debossed"
-      ],
-      "UV Printed": [
-        "UV Printed"
-      ],
       "UV Print": [
         "UV Print"
       ],
-      "Pad printed": [
-        "Pad printed"
-      ],
-      "Sublimated": [
-        "Dye Sublimated"
-      ],
-      "Offset Print": [
-        "Offset Print"
-      ],
       "Silkscrenn": [
         "Silkscrenn"
-      ],
-      "Embossing": [
-        "Embossed"
-      ],
-      "Enamel Print": [
-        "Hard Enamel",
-        "Soft Enamel"
       ],
       "Engraving": [
         "Laser Cutting",
         "Engraving Printing"
       ],
+      "Enamel Print": [
+        "Hard Enamel",
+        "Soft Enamel"
+      ],
       "Debossing": [
-        "Embossed; Debossed",
-        "Debossed"
+        "Debossed",
+        "Embossed; Debossed"
       ],
       "Dye Sublimated": [
         "Dye Sublimated"
@@ -175,13 +175,13 @@
       "Waterslide Decal Printing": [
         "Waterslide Decal Printing"
       ],
+      "Exopy Dome": [
+        "Exopy Dome"
+      ],
       "Die Struck": [
         "Soft Enamel",
         "Hard Enamel",
         "Die Struck"
-      ],
-      "Exopy Dome": [
-        "Exopy Dome"
       ],
       "Laser Cut": [
         "Laser Cut"

@@ -4,13 +4,13 @@
     "supplierId": "143",
     "type": {
       "Full Colour Digital Transfer;": [
-        "Full Colour Digital Transfer / Dimension 30X20 (CM) ",
-        "Full Colour Digital Transfer / Dimension 18X13 (CM) ",
         "Full Colour Digital Transfer / Dimension 10X7 (CM) ",
+        "Full Colour Digital Transfer / Dimension 18X13 (CM) ",
+        "Full Colour Digital Transfer / Dimension 30X20 (CM) ",
         "Unprinted ",
         "Full Colour Digital Transfer / Dimension 10X5 (CM) ",
-        "Full Colour Digital Transfer / Luminous 18X13 (CM) ",
         "Full Colour Digital Transfer / Luminous 30X20 (CM) ",
+        "Full Colour Digital Transfer / Luminous 18X13 (CM) ",
         "Screen Printing / 1 colour ",
         "Screen Printing / 2 colours ",
         "Screen Printing / 4 colours ",
@@ -58,19 +58,19 @@
       ],
       "Pad Printing; 3D Embossed Full Colour Printing (Gloss);": [
         "Pad Printing / 2 colours ",
-        "Pad Printing / 4 colours ",
         "Pad Printing / 1 colour ",
-        "Pad Printing / 3 colours ",
+        "Pad Printing / 4 colours ",
         "3D Embossed Full Colour Printing (Gloss) / Full colour ",
+        "Pad Printing / 3 colours ",
         "Full Colour Digital Printing / Full colour ",
         "Unprinted "
       ],
       "3D Embossed Full Colour Printing (Gloss); Pad Printing;": [
         "3D Embossed Full Colour Printing (Gloss) / Full colour ",
-        "Pad Printing / 2 colours ",
         "Pad Printing / 4 colours ",
-        "Pad Printing / 1 colour ",
+        "Pad Printing / 2 colours ",
         "Pad Printing / 3 colours ",
+        "Pad Printing / 1 colour ",
         "Full Colour Digital Printing / Full colour ",
         "Unprinted "
       ],
@@ -87,8 +87,8 @@
         "Pad Printing / 2 colours ",
         "Pad Printing / 4 colours ",
         "Full Colour Digital Printing / Full colour ",
-        "Pad Printing / 3 colours ",
         "Pad Printing / 1 colour ",
+        "Pad Printing / 3 colours ",
         "Unprinted "
       ],
       "Wrap Printing-1 Colour; Pad Printing; Dye Sublimation; 3D Embossed Full Colour WRAP Printing (Gloss); 3D Embossed Full Colour Printing (Gloss);": [
@@ -139,22 +139,13 @@
         "Wrap Printing-1 Colour / 1 colour ",
         "Unprinted "
       ],
-      "3D Embossed Full Colour Printing (Gloss); Pad Printing; Full Colour Digital Printing;": [
-        "Pad Printing / 3 colours ",
-        "Full Colour Digital Printing / Full colour ",
-        "Pad Printing / 2 colours ",
-        "Pad Printing / 4 colours ",
-        "Pad Printing / 1 colour ",
-        "3D Embossed Full Colour Printing (Gloss) / Full colour ",
-        "Unprinted "
-      ],
       "Wrap Printing-1 Colour; Laser Engraving; Pad Printing; 3D Embossed Full Colour WRAP Printing (Gloss); 3D Embossed Full Colour Printing (Gloss);": [
         "Pad Printing / 2 colours ",
         "Pad Printing / 1 colour ",
         "Wrap Printing-1 Colour / 1 colour ",
-        "Laser Engraving / 2 positions ",
-        "3D Embossed Full Colour Printing (Gloss) / Full colour ",
         "Laser Engraving / 1 position ",
+        "3D Embossed Full Colour Printing (Gloss) / Full colour ",
+        "Laser Engraving / 2 positions ",
         "3D Embossed Full Colour WRAP Printing (Gloss) / Full colour ",
         "Unprinted "
       ],
@@ -168,12 +159,21 @@
         "Laser Engraving / 1 position ",
         "Unprinted "
       ],
-      "Laser Engraving; Pad Printing; Wrap Printing-1 Colour; 3D Embossed Full Colour WRAP Printing (Gloss); 3D Embossed Full Colour Printing (Gloss);": [
-        "Laser Engraving / 1 position ",
+      "3D Embossed Full Colour Printing (Gloss); Pad Printing; Full Colour Digital Printing;": [
         "Pad Printing / 2 colours ",
+        "Full Colour Digital Printing / Full colour ",
+        "Pad Printing / 3 colours ",
+        "Pad Printing / 4 colours ",
+        "Pad Printing / 1 colour ",
+        "3D Embossed Full Colour Printing (Gloss) / Full colour ",
+        "Unprinted "
+      ],
+      "Laser Engraving; Pad Printing; Wrap Printing-1 Colour; 3D Embossed Full Colour WRAP Printing (Gloss); 3D Embossed Full Colour Printing (Gloss);": [
         "Wrap Printing-1 Colour / 1 colour ",
         "3D Embossed Full Colour WRAP Printing (Gloss) / Full colour ",
+        "Laser Engraving / 1 position ",
         "3D Embossed Full Colour Printing (Gloss) / Full colour ",
+        "Pad Printing / 2 colours ",
         "Laser Engraving / 2 positions ",
         "Pad Printing / 1 colour ",
         "Unprinted "
@@ -225,21 +225,21 @@
         "Wrap Printing-1 Colour / 1 colour ",
         "Unprinted "
       ],
+      "Wrap Printing-1 Colour; Pad Printing; Laser Engraving; 3D Embossed Full Colour Printing (Gloss); 3D Embossed Full Colour WRAP Printing (Gloss);": [
+        "Pad Printing / 2 colours ",
+        "Laser Engraving / 2 positions ",
+        "Pad Printing / 1 colour ",
+        "Wrap Printing-1 Colour / 1 colour ",
+        "3D Embossed Full Colour WRAP Printing (Gloss) / Full colour ",
+        "3D Embossed Full Colour Printing (Gloss) / Full colour ",
+        "Laser Engraving / 1 position ",
+        "Unprinted "
+      ],
       "Pad Printing;": [
         "3D Embossed Full Colour Printing (Gloss) / Full colour ",
         "Pad Printing / 2 colours ",
         "Pad Printing / 1 colour ",
         "Full Colour Digital Printing / Full colour ",
-        "Unprinted "
-      ],
-      "Wrap Printing-1 Colour; Pad Printing; Laser Engraving; 3D Embossed Full Colour Printing (Gloss); 3D Embossed Full Colour WRAP Printing (Gloss);": [
-        "Pad Printing / 2 colours ",
-        "Laser Engraving / 2 positions ",
-        "Pad Printing / 1 colour ",
-        "3D Embossed Full Colour WRAP Printing (Gloss) / Full colour ",
-        "Wrap Printing-1 Colour / 1 colour ",
-        "3D Embossed Full Colour Printing (Gloss) / Full colour ",
-        "Laser Engraving / 1 position ",
         "Unprinted "
       ],
       "Pad Printing; Full Colour Digital Printing; Laser Engraving; 3D Embossed Full Colour Printing (Gloss);": [
@@ -248,35 +248,35 @@
         "Laser Engraving / 1 position ",
         "Pad Printing / 1 colour ",
         "Pad Printing / 2 colours ",
-        "Full Colour Digital Printing / Full colour ",
         "Pad Printing / 4 colours ",
+        "Full Colour Digital Printing / Full colour ",
         "Pad Printing / 3 colours ",
         "Unprinted "
       ],
-      "Pad Printing; Wrap Printing-1 Colour; 3D Embossed Full Colour WRAP Printing (Gloss); Laser Engraving; 3D Embossed Full Colour Printing (Gloss);": [
+      "Wrap Printing-1 Colour; Pad Printing; Laser Engraving; 3D Embossed Full Colour WRAP Printing (Gloss); 3D Embossed Full Colour Printing (Gloss);": [
         "Laser Engraving / 1 position ",
-        "Laser Engraving / 2 positions ",
         "Pad Printing / 1 colour ",
-        "3D Embossed Full Colour Printing (Gloss) / Full colour ",
-        "Wrap Printing-1 Colour / 1 colour ",
-        "Pad Printing / 2 colours ",
         "3D Embossed Full Colour WRAP Printing (Gloss) / Full colour ",
+        "Pad Printing / 2 colours ",
+        "Wrap Printing-1 Colour / 1 colour ",
+        "Laser Engraving / 2 positions ",
+        "3D Embossed Full Colour Printing (Gloss) / Full colour ",
         "Unprinted "
       ],
-      "Wrap Printing-1 Colour; Pad Printing; Laser Engraving; 3D Embossed Full Colour WRAP Printing (Gloss); 3D Embossed Full Colour Printing (Gloss);": [
+      "Pad Printing; Wrap Printing-1 Colour; 3D Embossed Full Colour WRAP Printing (Gloss); Laser Engraving; 3D Embossed Full Colour Printing (Gloss);": [
         "Pad Printing / 1 colour ",
-        "3D Embossed Full Colour WRAP Printing (Gloss) / Full colour ",
         "Laser Engraving / 2 positions ",
         "Laser Engraving / 1 position ",
         "Pad Printing / 2 colours ",
         "Wrap Printing-1 Colour / 1 colour ",
         "3D Embossed Full Colour Printing (Gloss) / Full colour ",
+        "3D Embossed Full Colour WRAP Printing (Gloss) / Full colour ",
         "Unprinted "
       ],
       "Pad Printing; 3D Embossed Full Colour Printing (Gloss); Full Colour Digital Printing;": [
         "3D Embossed Full Colour Printing (Gloss) / Full colour ",
-        "Pad Printing / 2 colours ",
         "Pad Printing / 1 colour ",
+        "Pad Printing / 2 colours ",
         "Full Colour Digital Printing / Full colour ",
         "Wrap Printing-1 Colour / 1 colour ",
         "Pad Printing / 3 colours ",
@@ -295,18 +295,18 @@
         "Pad Printing / 1 colour ",
         "Laser Engraving / 2 positions ",
         "Pad Printing / 3 colours ",
-        "Laser Engraving / 1 position ",
         "3D Embossed Full Colour Printing (Gloss) / Full colour ",
         "Pad Printing / 2 colours ",
+        "Laser Engraving / 1 position ",
         "Full Colour Digital Printing / Full colour ",
         "Pad Printing / 4 colours ",
         "Unprinted "
       ],
       "Pad Printing; Laser Engraving; Full Colour Digital Printing;": [
         "Laser Engraving / 1 position ",
-        "Pad Printing / 4 colours ",
         "Pad Printing / 3 colours ",
         "Full Colour Digital Printing / Full colour ",
+        "Pad Printing / 4 colours ",
         "Laser Engraving / 2 positions ",
         "Pad Printing / 2 colours ",
         "Pad Printing / 1 colour ",
@@ -334,35 +334,35 @@
       "Full Colour Digital Printing; Pad Printing; 3D Embossed Full Colour Printing (Gloss);": [
         "Pad Printing / 4 colours ",
         "Pad Printing / 3 colours ",
-        "Full Colour Digital Printing / Full colour ",
         "Pad Printing / 2 colours ",
+        "Full Colour Digital Printing / Full colour ",
         "Pad Printing / 1 colour ",
         "Unprinted "
       ],
       "Pad Printing; Full Colour Digital Printing; Laser Engraving;": [
-        "Full Colour Digital Printing / Full colour ",
-        "Pad Printing / 2 colours ",
         "Pad Printing / 4 colours ",
+        "Full Colour Digital Printing / Full colour ",
         "Pad Printing / 3 colours ",
+        "Pad Printing / 2 colours ",
+        "Laser Engraving / 2 positions ",
         "Pad Printing / 1 colour ",
         "Laser Engraving / 1 position ",
-        "Laser Engraving / 2 positions ",
         "Unprinted "
       ],
       "Full Colour Digital Printing; Laser Engraving; Pad Printing;": [
+        "Laser Engraving / 1 position ",
+        "Pad Printing / 4 colours ",
         "Pad Printing / 2 colours ",
         "Pad Printing / 3 colours ",
-        "Laser Engraving / 1 position ",
         "Full Colour Digital Printing / Full colour ",
-        "Pad Printing / 4 colours ",
-        "Pad Printing / 1 colour ",
         "Laser Engraving / 2 positions ",
+        "Pad Printing / 1 colour ",
         "Unprinted "
       ],
       "Pad Printing; Full Colour Sticker; 3D Embossed Full Colour Printing (Gloss);": [
-        "Pad Printing / 3 colours ",
-        "3D Embossed Full Colour Printing (Gloss) / Full colour ",
         "Pad Printing / 4 colours ",
+        "3D Embossed Full Colour Printing (Gloss) / Full colour ",
+        "Pad Printing / 3 colours ",
         "Pad Printing / 1 colour ",
         "Full Colour Sticker / Full colour ",
         "Pad Printing / 2 colours ",
@@ -410,9 +410,9 @@
       ],
       "3D Embossed Full Colour Printing (Gloss); Full Colour Digital Printing; Laser Engraving; Pad Printing;": [
         "Laser Engraving / 2 positions ",
+        "Pad Printing / 1 colour ",
         "Pad Printing / 2 colours ",
         "Pad Printing / 3 colours ",
-        "Pad Printing / 1 colour ",
         "Laser Engraving / 1 position ",
         "Full Colour Digital Printing / Full colour ",
         "Pad Printing / 4 colours ",
@@ -420,13 +420,13 @@
       ],
       "Pad Printing; Full Colour Wrap Printing;": [
         "3D Embossed Full Colour Printing (Gloss) / Full colour ",
-        "Pad Printing / 2 colours ",
         "Pad Printing / 1 colour ",
+        "Pad Printing / 2 colours ",
         "Unprinted "
       ],
       "Full Colour Digital Printing; Pad Printing;": [
-        "3D Embossed Full Colour Printing (Gloss) / Full colour ",
         "Pad Printing / 2 colours ",
+        "3D Embossed Full Colour Printing (Gloss) / Full colour ",
         "Pad Printing / 1 colour ",
         "Unprinted "
       ],

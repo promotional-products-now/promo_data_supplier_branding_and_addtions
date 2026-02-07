@@ -9,22 +9,22 @@
       "Pad print": [
         "1 color 1 side 1 location"
       ],
-      "Laser engraved": [
-        "1 color 1 side 1 location",
-        "1 side 1 location"
-      ],
       "Sticker": [
+        "1 color 1 side 1 location"
+      ],
+      "Label": [
         "1 color 1 side 1 location"
       ],
       "Heat transfer": [
         "1 color 1 side 1 location"
       ],
+      "Laser engraved": [
+        "1 side 1 location",
+        "1 color 1 side 1 location"
+      ],
       "Sublimated print": [
         "1 color 1 side 1 location",
         "full color 1 side 1 location"
-      ],
-      "Label": [
-        "1 color 1 side 1 location"
       ],
       "UV print": [
         "1 color 1 side 1 location"
@@ -32,14 +32,14 @@
       "Screen Print": [
         "1 color 1 side 1 location"
       ],
-      "Debossed print": [
-        "1 side 1 location"
-      ],
       "Jacquard": [
         "1 color 1 side 1 location"
       ],
       "Epoxy Dome": [
         "1 color 1 side 1 location"
+      ],
+      "Debossed print": [
+        "1 side 1 location"
       ],
       "Dye Sublimated": [
         "Full color 1 side 1 location"

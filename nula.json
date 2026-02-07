@@ -6,13 +6,13 @@
       "Pad Print": [
         "1 colour 1 positon print"
       ],
+      "embossed": [
+        "embossed",
+        "1 colour 1 positon print"
+      ],
       "engraved": [
         "engraved",
         "engraved LED"
-      ],
-      "embossed": [
-        "1 colour 1 positon print",
-        "embossed"
       ]
     }
   }

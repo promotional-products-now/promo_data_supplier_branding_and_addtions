@@ -3,25 +3,25 @@
     "supplierName": "Seed Sticks",
     "supplierId": "32",
     "type": {
-      "Digital | Offset": [
-        "CMYK both sides",
-        "CMYK front & black only reverse",
-        "CMYK outer only"
-      ],
       "Inkjet": [
         "CMYK one side only"
       ],
+      "Digital | Offset": [
+        "CMYK outer only",
+        "CMYK front & black only reverse",
+        "CMYK both sides"
+      ],
+      "Matte board, Digital Print": [
+        "Full colour front, 1 colour back"
+      ],
       "Gloss board, Digital and Offset Print": [
         "Full colour outer, 1 colour inner",
-        "Varies",
         "Full colour both sides",
+        "Varies",
         "Full colour outer"
       ],
       "Foil, Offset Print": [
         "Full colour outer"
-      ],
-      "Matte board, Digital Print": [
-        "Full colour front, 1 colour back"
       ]
     }
   }

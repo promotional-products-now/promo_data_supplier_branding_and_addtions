@@ -3,11 +3,11 @@
     "supplierName": "Re-Loved Apparel",
     "supplierId": "70",
     "type": {
-      "Any colour fully Sublimated on both sides": [
-        "Any colour fully sublimated on both sides. Wholesale/distributor portal website requires an approved account for pricing, quantities, and orders to be seen and made."
-      ],
       "Any colour fully sublimated on both front and back": [
         "Any colour fully sublimated on both front and back. Wholesale/distributor portal website requires an approved account for pricing, quantities, and orders to be seen and made."
+      ],
+      "Any colour fully Sublimated on both sides": [
+        "Any colour fully sublimated on both sides. Wholesale/distributor portal website requires an approved account for pricing, quantities, and orders to be seen and made."
       ],
       "Any colour and fully sublimated on both sides": [
         "Any colour and fully sublimated on both sides. Wholesale/distributor portal website requires an approved account for pricing, quantities, and orders to be seen and made."

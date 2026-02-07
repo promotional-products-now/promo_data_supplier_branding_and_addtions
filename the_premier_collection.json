@@ -4,22 +4,22 @@
     "supplierId": "24",
     "type": {
       "Setup Charge": [
-        "9mm x 36mm wide",
-        "25mm circle",
-        "20mm diameter",
-        "37mm x 37mm or 52mm x 27mm",
-        "20mm x 20mm wide",
         "16mm x 26mm wide",
+        "25mm circle",
+        "37mm x 37mm or 52mm x 27mm",
+        "20mm diameter",
+        "20mm x 20mm wide",
         "17mm (H) x 25mm (W)",
-        "18mm (H) x 35mm (W)",
+        "9mm x 36mm wide",
         "16mm x 28mm wide",
+        "18mm (H) x 35mm (W)",
         "20mm (H) x 45mm (W)",
-        "28mm x 28mm",
         "170mm x 30mm",
+        "28mm x 28mm",
         "80mm x 110mm Wide",
         "80mm x 28mm wide",
-        "25mm x 60mm wide",
         "250mm high x 200mm wide",
+        "25mm x 60mm wide",
         "15mm x 40mm wide",
         "70mm x 125mm wide",
         "200mm high x 250mm wide",
@@ -37,10 +37,10 @@
         "70mmx 70mm",
         "30mm x 60mm wide",
         "18mm (H) x 70mm (W)",
-        "50mm high x 105mm wide x 3mm thick",
-        "30mm x 40mm wide (limited contrast)",
         "10mm x 50mm wide",
+        "30mm x 40mm wide (limited contrast)",
         "90mm x 30mm wide (vertical)",
+        "50mm high x 105mm wide x 3mm thick",
         "25mm (W) x 15mm (H) on front OR 50mm (W) x 23mm (H)",
         "8mm x 55mm wide",
         "26mm x 37mm wide",
@@ -49,9 +49,9 @@
         "7mm x 50mm wide",
         "90mm x 30mm wide (vertical)\n Packaging",
         "45mm x 50mm wide",
-        "9mm x 35mm wide",
-        "18mm x 50mm wide",
         "13mm x 37mm wide",
+        "18mm x 50mm wide",
+        "9mm x 35mm wide",
         "40mm x 65mm wide",
         "25mm x 60mm wide, 40mm x 50mm wide",
         "Full Colour Transfer Print 1 panel",
@@ -59,25 +59,25 @@
         "25mm diameter circle",
         "50mm x 50mm (optional)",
         "30mm diameter circle",
-        "8mm x 35mm wide",
         "11mm x 45mm wide",
         "20mm x 30mm wide",
+        "8mm x 35mm wide",
         "7mm x 35mm wide",
         "30mm x 50mm wide",
         "28mm x 50mm wide",
         "35mm diameter circle (optional)",
         "35mm x 35mm or 20mm x 60mm wide",
-        "300mm x 300mm per panel",
         "350mm x 700mm wide",
+        "300mm x 300mm per panel",
         "200mm high x 130mm wide"
-      ],
-      "Full Colour Transfer per position": [
-        "Full Colour Transfer per position 65mm x 200mm wide (on front of bag), 120mm x 200mm wide (on back of bag)"
       ],
       "Full Col Fly Sheet - Front and/or Back": [
         "Full Col Fly Sheet - Front and/or Back 1000+ units Full Colour inner cover L-R spread (see images)",
         "Full Col Fly Sheet - Front and/or Back 250-999 units Full Colour inner cover",
         "Full Col Fly Sheet - Front and/or Back"
+      ],
+      "Full Colour Transfer per position": [
+        "Full Colour Transfer per position 65mm x 200mm wide (on front of bag), 120mm x 200mm wide (on back of bag)"
       ],
       "Pad Print Per Colour/Position": [
         "Pad Print Per Colour/Position 35mm x 50mm wide or 65mm x 25mm wide (vertical)"
@@ -93,23 +93,26 @@
         "Unbranded Stock (3 Day Lead Time)",
         "Unbranded Stock - Includes Notebook"
       ],
+      "Full Colour - Free Setup": [
+        "Full Col Fly Sheet - Front and/or Back 250-999 units Full Colour inner cover L-R spread (see images)",
+        "Full Colour - Free Setup Full Colour cover (front and back) with custom colour wiro",
+        "Full Colour - Free Setup Full Colour inner cover L-R spread (see images)",
+        "5-6 WEEK INDENT - Printed full colour on cover",
+        "Printed full colour sublimation on umbrella and pouch",
+        "Printed full col on sunshade",
+        "Printed full colour",
+        " Printed full col on sunshade",
+        "Printed full colour on cover (front-spine-back)",
+        "10-12 WEEK INDENT - Printed full colour on cover"
+      ],
       "Deboss - Free Setup": [
         "Full Col Fly Sheet - Front and/or Back 250-999 units Full Colour inner cover L-R spread (see images)",
         "5-6 WEEK INDENT - Deboss on cover",
         "Deboss on cover",
         "10-12 WEEK INDENT - Deboss on cover"
       ],
-      "Full Colour - Free Setup": [
-        "Full Col Fly Sheet - Front and/or Back 250-999 units Full Colour inner cover L-R spread (see images)",
-        "Full Colour - Free Setup Full Colour cover (front and back) with custom colour wiro",
-        "Full Colour - Free Setup Full Colour inner cover L-R spread (see images)",
-        "5-6 WEEK INDENT - Printed full colour on cover",
-        "Printed full col on sunshade",
-        " Printed full col on sunshade",
-        "Printed full colour sublimation on umbrella and pouch",
-        "Printed full colour",
-        "Printed full colour on cover (front-spine-back)",
-        "10-12 WEEK INDENT - Printed full colour on cover"
+      "Full Colour Print": [
+        "Full Colour Print"
       ],
       "Included Full Colour Print": [
         "Included Full Colour Print",
@@ -117,101 +120,98 @@
         "Printed Full Colour (Dome Print)",
         "Printed Full Colour"
       ],
-      "Full Colour Print": [
-        "Full Colour Print"
-      ],
       "Included Screen Print - 50mm x 120mm wide": [
-        "Printed 1 colour in 1 position"
-      ],
-      "Included Screen Print - 240mm x 240mm wide": [
         "Printed 1 colour in 1 position"
       ],
       "Included Screen Print - 350mm x 350mm per panel": [
         "Printed 1 col on both panels"
       ],
+      "Included Screen Print - 240mm x 240mm wide": [
+        "Printed 1 colour in 1 position"
+      ],
       "Included Screen Print - 300mm x 300mm per panel": [
         "Printed 1 col on both panels"
-      ],
-      "Included Engraving": [
-        "Engraved 1 position"
-      ],
-      "Included Screen Print": [
-        "Price per set of 2 includes 1 colour printing",
-        "Printed 1 col on sunshade",
-        "Printed 1 col/1 pos on flyer",
-        "Printed 1 col/2 pos on shade",
-        "Printed 1 col/1 pos on kite",
-        "Printed 1 col/1 pos on pouch",
-        "Printed 1 col/1 pos on hat"
-      ],
-      "Included Screen Print - 240mm x 250mm wide": [
-        "Printed 1 col/1 pos on bag"
-      ],
-      "Included Screen Print - 70mm x 110mm wide": [
-        "Printed 1 colour in 1 position"
-      ],
-      "Included Screen Print - 40mm x 40mm wide (on front or back)": [
-        "Printed 1 colour in 1 position"
       ],
       "Included Screen Print - 90mm x 140mm wide": [
         "Printed 1 colour in 1 position"
       ],
-      "Included Screen Print - 18cm x 15cm (w)": [
-        "Printed 1 col/1 pos"
+      "Included Screen Print": [
+        "Printed 1 col/1 pos on flyer",
+        "Printed 1 col/1 pos on pouch",
+        "Printed 1 col/2 pos on shade",
+        "Price per set of 2 includes 1 colour printing",
+        "Printed 1 col/1 pos on kite",
+        "Printed 1 col/1 pos on hat",
+        "Printed 1 col on sunshade"
       ],
-      "Included Screen Print - 14cm x 12cm (w)": [
-        "Printed 1 col/1 pos"
+      "Full Colour - Free Setup - Pouch printed full colour": [
+        "Printed full colour"
+      ],
+      "Included Screen Print - 240mm x 250mm wide": [
+        "Printed 1 col/1 pos on bag"
       ],
       "Included Screen Print - 16cm x 12cm (w)": [
         "Printed 1 col/1 pos"
       ],
-      "Included Screen Print - 140mm x 200mm wide": [
-        "Printed 1 colour in 1 position"
+      "Screen Print - Free Setup": [
+        "Printed 1 col on 4 panels + Pouch"
       ],
-      "Included Screen Print - 20cm x 15cm (w)": [
-        "Printed 1 col/1 pos"
+      "Included Engraving": [
+        "Engraved 1 position"
       ],
-      "Included Screen Print - 50mm x 80mm wide": [
-        "Printed 1 colour in 1 position"
-      ],
-      "Included Screen Print - 350mm x 700mm wide": [
-        "Printed 1 col on sunshade"
-      ],
-      "Included Screen Print - 150mm x 230mm wide": [
-        "Printed 1 colour in 1 position"
-      ],
-      "Included Screen Print - 9cm x 14cm wide": [
-        "Printed 1 col/1 pos"
-      ],
-      "Included Screen Print - 190mm x 240mm wide": [
-        "Printed 1 colour in 1 position"
-      ],
-      "Included Screen Print - 70mm x 100mm wide": [
-        "Printed 1 colour in 1 position"
-      ],
-      "Included Screen Print - 70mm x 150mm wide": [
-        "Printed 1 colour in 1 position"
-      ],
-      "Included Moulding": [
-        "Moulded up to 4 colours - 1 side"
-      ],
-      "Included Screen Print - 100mm x 150mm wide or 80mm x 190mm wide": [
+      "Included Screen Print - 70mm x 110mm wide": [
         "Printed 1 colour in 1 position"
       ],
       "Included Screen Print - 40mm x 200mm wide repeated along length": [
         "Printed 1 col on 1 side"
       ],
-      "Full Colour - Free Setup - Pouch printed full colour": [
-        "Printed full colour"
+      "Included Screen Print - 50mm x 80mm wide": [
+        "Printed 1 colour in 1 position"
       ],
-      "Full Colour - Free Setup - Laptop sleeve printed full colour": [
-        "Printed full colour"
+      "Included Moulding": [
+        "Moulded up to 4 colours - 1 side"
       ],
       "Full Colour - Free Setup - Printed full colour": [
         "Printed full colour"
       ],
-      "Screen Print - Free Setup": [
-        "Printed 1 col on 4 panels + Pouch"
+      "Included Screen Print - 350mm x 700mm wide": [
+        "Printed 1 col on sunshade"
+      ],
+      "Included Screen Print - 100mm x 150mm wide or 80mm x 190mm wide": [
+        "Printed 1 colour in 1 position"
+      ],
+      "Included Screen Print - 18cm x 15cm (w)": [
+        "Printed 1 col/1 pos"
+      ],
+      "Included Screen Print - 40mm x 40mm wide (on front or back)": [
+        "Printed 1 colour in 1 position"
+      ],
+      "Included Screen Print - 150mm x 230mm wide": [
+        "Printed 1 colour in 1 position"
+      ],
+      "Included Screen Print - 14cm x 12cm (w)": [
+        "Printed 1 col/1 pos"
+      ],
+      "Included Screen Print - 70mm x 100mm wide": [
+        "Printed 1 colour in 1 position"
+      ],
+      "Included Screen Print - 20cm x 15cm (w)": [
+        "Printed 1 col/1 pos"
+      ],
+      "Included Screen Print - 190mm x 240mm wide": [
+        "Printed 1 colour in 1 position"
+      ],
+      "Included Screen Print - 70mm x 150mm wide": [
+        "Printed 1 colour in 1 position"
+      ],
+      "Full Colour - Free Setup - Laptop sleeve printed full colour": [
+        "Printed full colour"
+      ],
+      "Included Screen Print - 140mm x 200mm wide": [
+        "Printed 1 colour in 1 position"
+      ],
+      "Included Screen Print - 9cm x 14cm wide": [
+        "Printed 1 col/1 pos"
       ],
       "Included Screen Print - 180mm x 90mm wide": [
         "Printed 1 colour in 1 position"
@@ -232,8 +232,8 @@
         "DISPATCH IN 10-15 DAYS - PRINTED FULL COLOUR"
       ],
       "Full Colour - Free Setup - Full Colour inner cover L-R spread (see images)": [
-        "5-6 WEEK INDENT - Printed full colour on cover & notebook + deboss",
         "5-6 WEEK INDENT - Printed full colour on cover",
+        "5-6 WEEK INDENT - Printed full colour on cover & notebook + deboss",
         "Printed full colour on cover (front-spine-back)",
         "Includes Deboss on Cover, Full colour magnetic clip & inner notebook cover",
         "10-12 WEEK INDENT - Printed full colour on cover",

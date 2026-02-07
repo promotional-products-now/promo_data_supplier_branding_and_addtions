@@ -3,11 +3,11 @@
     "supplierName": "Australian Sock Company",
     "supplierId": "26",
     "type": {
-      "Knitted logo / design.": [
-        "Includes 5 colour in the design. 8 colours including base colours."
-      ],
       "Dye sbublimated design": [
         "Full colour print"
+      ],
+      "Knitted logo / design.": [
+        "Includes 5 colour in the design. 8 colours including base colours."
       ]
     }
   }
